@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (United States)_
 
+![flag](../media/flags/aq.png)
+![locator](../media/locators/aq.png)
+![map](../media/maps/aq.png)
+
 # American Samoa
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, group of islands in the South Pacific Ocean, about halfway between Hawa
 Oceania<br>
 
 **Area**<br>
-_total _: 224 sq km<br>
+_total_: 224 sq km<br>
 _land_: 224 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Rose Atoll and Swains Island<br>

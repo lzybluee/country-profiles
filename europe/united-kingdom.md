@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/uk.png)
+![locator](../media/locators/uk.png)
+![map](../media/maps/uk.png)
+
 # United Kingdom
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Europe, islands - including the northern one-sixth of the island of Irel
 Europe<br>
 
 **Area**<br>
-_total _: 243,610 sq km<br>
+_total_: 243,610 sq km<br>
 _land_: 241,930 sq km<br>
 _water_: 1,680 sq km<br>
 <strong>note 1:</strong> England covers 53% of the area, Scotland 32%, Wales 9%, and Northern Ireland 6%<br><br><strong>note 2:</strong> includes Rockall and the Shetland Islands, which are part of Scotland<br>

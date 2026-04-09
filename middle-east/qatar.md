@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/qa.png)
+![locator](../media/locators/qa.png)
+![map](../media/maps/qa.png)
+
 # Qatar
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, peninsula bordering the Persian Gulf and Saudi Arabia<br>
 Middle East<br>
 
 **Area**<br>
-_total _: 11,586 sq km<br>
+_total_: 11,586 sq km<br>
 _land_: 11,586 sq km<br>
 _water_: 0 sq km<br>
 

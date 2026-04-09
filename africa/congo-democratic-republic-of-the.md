@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/cg.png)
+![locator](../media/locators/cg.png)
+![map](../media/maps/cg.png)
+
 # Congo, Democratic Republic of the
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, northeast of Angola<br>
 Africa<br>
 
 **Area**<br>
-_total _: 2,344,858 sq km<br>
+_total_: 2,344,858 sq km<br>
 _land_: 2,267,048 sq km<br>
 _water_: 77,810 sq km<br>
 

@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/mz.png)
+![locator](../media/locators/mz.png)
+![map](../media/maps/mz.png)
+
 # Mozambique
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Africa, bordering the Mozambique Channel, between South Africa and 
 Africa<br>
 
 **Area**<br>
-_total _: 799,380 sq km<br>
+_total_: 799,380 sq km<br>
 _land_: 786,380 sq km<br>
 _water_: 13,000 sq km<br>
 

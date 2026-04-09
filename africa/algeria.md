@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ag.png)
+![locator](../media/locators/ag.png)
+![map](../media/maps/ag.png)
+
 # Algeria
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Africa, bordering the Mediterranean Sea, between Morocco and Tunisia<br
 Africa<br>
 
 **Area**<br>
-_total _: 2,381,740 sq km<br>
+_total_: 2,381,740 sq km<br>
 _land_: 2,381,740 sq km<br>
 _water_: 0 sq km<br>
 

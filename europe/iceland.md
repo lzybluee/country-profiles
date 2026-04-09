@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/ic.png)
+![locator](../media/locators/ic.png)
+![map](../media/maps/ic.png)
+
 # Iceland
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Europe, island between the Greenland Sea and the North Atlantic Ocean, 
 Arctic Region<br>
 
 **Area**<br>
-_total _: 103,000 sq km<br>
+_total_: 103,000 sq km<br>
 _land_: 100,250 sq km<br>
 _water_: 2,750 sq km<br>
 

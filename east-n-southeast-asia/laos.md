@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/la.png)
+![locator](../media/locators/la.png)
+![map](../media/maps/la.png)
+
 # Laos
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, northeast of Thailand, west of Vietnam<br>
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 236,800 sq km<br>
+_total_: 236,800 sq km<br>
 _land_: 230,800 sq km<br>
 _water_: 6,000 sq km<br>
 

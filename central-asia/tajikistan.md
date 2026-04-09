@@ -1,5 +1,9 @@
 _Central Asia / Countries_
 
+![flag](../media/flags/ti.png)
+![locator](../media/locators/ti.png)
+![map](../media/maps/ti.png)
+
 # Tajikistan
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Asia, west of China, south of Kyrgyzstan<br>
 Asia<br>
 
 **Area**<br>
-_total _: 144,100 sq km<br>
+_total_: 144,100 sq km<br>
 _land_: 141,510 sq km<br>
 _water_: 2,590 sq km<br>
 

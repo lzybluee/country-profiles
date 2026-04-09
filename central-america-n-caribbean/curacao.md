@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (Netherlands)_
 
+![flag](../media/flags/uc.png)
+![locator](../media/locators/uc.png)
+![map](../media/maps/uc.png)
+
 # Curacao
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, an island in the Caribbean Sea, 55 km off the coast of Venezuela<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 444 sq km<br>
+_total_: 444 sq km<br>
 _land_: 444 sq km<br>
 _water_: 0 sq km<br>
 

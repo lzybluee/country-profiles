@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/sp.png)
+![locator](../media/locators/sp.png)
+![map](../media/maps/sp.png)
+
 # Spain
 
 ## Introduction
@@ -19,7 +23,7 @@ Southwestern Europe, bordering the Mediterranean Sea, North Atlantic Ocean, Bay 
 Europe<br>
 
 **Area**<br>
-_total _: 505,370 sq km<br>
+_total_: 505,370 sq km<br>
 _land_: 498,980 sq km<br>
 _water_: 6,390 sq km<br>
 <strong>note:</strong> includes two autonomous cities (Ceuta and Melilla), 17 autonomous communities (including Balearic Islands and Canary Islands), and three small Spanish possessions off the coast of Morocco -- Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera<br>

@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/se.png)
+![locator](../media/locators/se.png)
+![map](../media/maps/se.png)
+
 # Seychelles
 
 ## Introduction
@@ -19,7 +23,7 @@ archipelago in the Indian Ocean, northeast of Madagascar<br>
 Africa<br>
 
 **Area**<br>
-_total _: 455 sq km<br>
+_total_: 455 sq km<br>
 _land_: 455 sq km<br>
 _water_: 0 sq km<br>
 

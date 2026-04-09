@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/ws.png)
+![locator](../media/locators/ws.png)
+![map](../media/maps/ws.png)
+
 # Samoa
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, group of islands in the South Pacific Ocean, about halfway between Hawa
 Oceania<br>
 
 **Area**<br>
-_total _: 2,831 sq km<br>
+_total_: 2,831 sq km<br>
 _land_: 2,821 sq km<br>
 _water_: 10 sq km<br>
 

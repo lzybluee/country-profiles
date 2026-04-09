@@ -1,5 +1,9 @@
 _Antarctica / Dependencies (France)_
 
+![flag](../media/flags/fs.png)
+![locator](../media/locators/fs.png)
+![map](../media/maps/fs.png)
+
 # French Southern and Antarctic Lands
 
 ## Introduction

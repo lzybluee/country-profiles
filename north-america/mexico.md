@@ -1,5 +1,9 @@
 _North America / Countries_
 
+![flag](../media/flags/mx.png)
+![locator](../media/locators/mx.png)
+![map](../media/maps/mx.png)
+
 # Mexico
 
 ## Introduction
@@ -19,7 +23,7 @@ North America, bordering the Caribbean Sea and the Gulf of America, between Beli
 North America<br>
 
 **Area**<br>
-_total _: 1,964,375 sq km<br>
+_total_: 1,964,375 sq km<br>
 _land_: 1,943,945 sq km<br>
 _water_: 20,430 sq km<br>
 

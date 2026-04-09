@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/rw.png)
+![locator](../media/locators/rw.png)
+![map](../media/maps/rw.png)
+
 # Rwanda
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, east of the Democratic Republic of the Congo, north of Burundi<b
 Africa<br>
 
 **Area**<br>
-_total _: 26,338 sq km<br>
+_total_: 26,338 sq km<br>
 _land_: 24,668 sq km<br>
 _water_: 1,670 sq km<br>
 

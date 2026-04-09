@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/to.png)
+![locator](../media/locators/to.png)
+![map](../media/maps/to.png)
+
 # Togo
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the Bight of Benin, between Benin and Ghana<br>
 Africa<br>
 
 **Area**<br>
-_total _: 56,785 sq km<br>
+_total_: 56,785 sq km<br>
 _land_: 54,385 sq km<br>
 _water_: 2,400 sq km<br>
 

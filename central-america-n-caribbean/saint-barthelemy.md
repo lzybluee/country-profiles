@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (France)_
 
+![flag](../media/flags/tb.png)
+![locator](../media/locators/tb.png)
+![map](../media/maps/tb.png)
+
 # Saint Barthelemy
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean; locate
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 25 sq km<br>
+_total_: 25 sq km<br>
 _land_: 25 sq km<br>
 _water_: negligible<br>
 

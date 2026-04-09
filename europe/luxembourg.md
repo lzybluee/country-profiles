@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/lu.png)
+![locator](../media/locators/lu.png)
+![map](../media/maps/lu.png)
+
 # Luxembourg
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Europe, between France and Germany<br>
 Europe<br>
 
 **Area**<br>
-_total _: 2,586 sq km<br>
+_total_: 2,586 sq km<br>
 _land_: 2,586 sq km<br>
 _water_: 0 sq km<br>
 

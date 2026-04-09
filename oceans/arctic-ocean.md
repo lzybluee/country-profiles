@@ -1,5 +1,7 @@
 _Oceans / Oceans_
 
+![map](../media/maps/xq.png)
+
 # Arctic Ocean
 
 ## Introduction
@@ -19,7 +21,7 @@ body of water between Europe, Asia, and North America, mostly north of the Arcti
 Arctic Region<br>
 
 **Area**<br>
-_total _: 15.558 million sq km<br>
+_total_: 15.558 million sq km<br>
 <strong>note:</strong> includes Barents Sea, Beaufort Sea, Chukchi Sea, East Siberian Sea, Greenland Sea, Kara Sea, Laptev Sea, Northwest Passage, Norwegian Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>

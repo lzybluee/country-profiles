@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/kv.png)
+![locator](../media/locators/kv.png)
+![map](../media/maps/kv.png)
+
 # Kosovo
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe, between Serbia and Macedonia<br>
 Europe<br>
 
 **Area**<br>
-_total _: 10,887 sq km<br>
+_total_: 10,887 sq km<br>
 _land_: 10,887 sq km<br>
 _water_: 0 sq km<br>
 

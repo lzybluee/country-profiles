@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/ym.png)
+![locator](../media/locators/ym.png)
+![map](../media/maps/ym.png)
+
 # Yemen
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, bordering the Arabian Sea, Gulf of Aden, and Red Sea, between Oman 
 Middle East<br>
 
 **Area**<br>
-_total _: 527,968 sq km<br>
+_total_: 527,968 sq km<br>
 _land_: 527,968 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Perim, Socotra, the former Yemen Arab Republic (YAR or North Yemen), and the former People's Democratic Republic of Yemen (PDRY or South Yemen)<br>

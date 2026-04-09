@@ -1,5 +1,8 @@
 _Middle East / Miscellaneous_
 
+![locator](../media/locators/we.png)
+![map](../media/maps/we.png)
+
 # West Bank
 
 ## Introduction
@@ -19,7 +22,7 @@ Middle East, west of Jordan, east of Israel<br>
 Middle East<br>
 
 **Area**<br>
-_total _: 5,860 sq km<br>
+_total_: 5,860 sq km<br>
 _land_: 5,640 sq km<br>
 _water_: 220 sq km<br>
 <strong>note:</strong> includes West Bank, Latrun Salient, and the northwest quarter of the Dead Sea, but excludes Mt. Scopus; East Jerusalem and Jerusalem No Man's Land are also included only as a means of depicting the entire area occupied by Israel in 1967<br>

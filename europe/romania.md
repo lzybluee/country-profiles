@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/ro.png)
+![locator](../media/locators/ro.png)
+![map](../media/maps/ro.png)
+
 # Romania
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe, bordering the Black Sea, between Bulgaria and Ukraine<br>
 Europe<br>
 
 **Area**<br>
-_total _: 238,391 sq km<br>
+_total_: 238,391 sq km<br>
 _land_: 229,891 sq km<br>
 _water_: 8,500 sq km<br>
 

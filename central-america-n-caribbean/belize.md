@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/bh.png)
+![locator](../media/locators/bh.png)
+![map](../media/maps/bh.png)
+
 # Belize
 
 ## Introduction
@@ -19,7 +23,7 @@ Central America, bordering the Caribbean Sea, between Guatemala and Mexico<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 22,966 sq km<br>
+_total_: 22,966 sq km<br>
 _land_: 22,806 sq km<br>
 _water_: 160 sq km<br>
 

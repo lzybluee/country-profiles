@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/ec.png)
+![locator](../media/locators/ec.png)
+![map](../media/maps/ec.png)
+
 # Ecuador
 
 ## Introduction
@@ -19,7 +23,7 @@ Western South America, bordering the Pacific Ocean at the Equator, between Colom
 South America<br>
 
 **Area**<br>
-_total _: 283,561 sq km<br>
+_total_: 283,561 sq km<br>
 _land_: 276,841 sq km<br>
 _water_: 6,720 sq km<br>
 <strong>note:</strong> includes Galapagos Islands<br>

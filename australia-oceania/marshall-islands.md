@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/rm.png)
+![locator](../media/locators/rm.png)
+![map](../media/maps/rm.png)
+
 # Marshall Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, consists of 29 atolls and five isolated islands in the North Pacific Oc
 Oceania<br>
 
 **Area**<br>
-_total _: 181 sq km<br>
+_total_: 181 sq km<br>
 _land_: 181 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> the archipelago includes 11,673 sq km (4,507 sq mi) of lagoon and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik<br>

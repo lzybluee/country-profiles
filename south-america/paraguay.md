@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/pa.png)
+![locator](../media/locators/pa.png)
+![map](../media/maps/pa.png)
+
 # Paraguay
 
 ## Introduction
@@ -19,7 +23,7 @@ Central South America, northeast of Argentina, southwest of Brazil<br>
 South America<br>
 
 **Area**<br>
-_total _: 406,752 sq km<br>
+_total_: 406,752 sq km<br>
 _land_: 397,302 sq km<br>
 _water_: 9,450 sq km<br>
 

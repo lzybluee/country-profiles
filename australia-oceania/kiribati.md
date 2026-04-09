@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/kr.png)
+![locator](../media/locators/kr.png)
+![map](../media/maps/kr.png)
+
 # Kiribati
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, group of 32 coral atolls and one raised coral island in the Pacific Oce
 Oceania<br>
 
 **Area**<br>
-_total _: 811 sq km<br>
+_total_: 811 sq km<br>
 _land_: 811 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes three island groups -- Gilbert Islands, Line Islands, and Phoenix Islands -- dispersed over about 3.5 million sq km (1.35 million sq mi)<br>

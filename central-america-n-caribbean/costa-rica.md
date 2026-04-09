@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/cs.png)
+![locator](../media/locators/cs.png)
+![map](../media/maps/cs.png)
+
 # Costa Rica
 
 ## Introduction
@@ -19,7 +23,7 @@ Central America, bordering both the Caribbean Sea and the North Pacific Ocean, b
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 51,100 sq km<br>
+_total_: 51,100 sq km<br>
 _land_: 51,060 sq km<br>
 _water_: 40 sq km<br>
 <strong>note:</strong> includes Isla del Coco<br>

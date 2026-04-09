@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ek.png)
+![locator](../media/locators/ek.png)
+![map](../media/maps/ek.png)
+
 # Equatorial Guinea
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, bordering the Bight of Biafra, between Cameroon and Gabon<br>
 Africa<br>
 
 **Area**<br>
-_total _: 28,051 sq km<br>
+_total_: 28,051 sq km<br>
 _land_: 28,051 sq km<br>
 _water_: 0 sq km<br>
 

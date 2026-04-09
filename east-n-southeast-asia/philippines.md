@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/rp.png)
+![locator](../media/locators/rp.png)
+![map](../media/maps/rp.png)
+
 # Philippines
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, archipelago between the Philippine Sea and the South China Se
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 300,000 sq km<br>
+_total_: 300,000 sq km<br>
 _land_: 298,170 sq km<br>
 _water_: 1,830 sq km<br>
 

@@ -1,5 +1,9 @@
 _Europe / Dependencies (United Kingdom)_
 
+![flag](../media/flags/dx.png)
+![locator](../media/locators/dx.png)
+![map](../media/maps/dx.png)
+
 # Dhekelia
 
 ## Introduction

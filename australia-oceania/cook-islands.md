@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (New Zealand)_
 
+![flag](../media/flags/cw.png)
+![locator](../media/locators/cw.png)
+![map](../media/maps/cw.png)
+
 # Cook Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, group of islands in the South Pacific Ocean, about halfway between Hawa
 Oceania<br>
 
 **Area**<br>
-_total _: 236 sq km<br>
+_total_: 236 sq km<br>
 _land_: 236 sq km<br>
 _water_: 0 sq km<br>
 

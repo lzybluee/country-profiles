@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/nh.png)
+![locator](../media/locators/nh.png)
+![map](../media/maps/nh.png)
+
 # Vanuatu
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, group of islands in the South Pacific Ocean, about three-quarters of th
 Oceania<br>
 
 **Area**<br>
-_total _: 12,189 sq km<br>
+_total_: 12,189 sq km<br>
 _land_: 12,189 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes more than 80 islands, about 65 of which are inhabited<br>

@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/tp.png)
+![locator](../media/locators/tp.png)
+![map](../media/maps/tp.png)
+
 # Sao Tome and Principe
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, islands in the Gulf of Guinea, just north of the Equator, west o
 Africa<br>
 
 **Area**<br>
-_total _: 964 sq km<br>
+_total_: 964 sq km<br>
 _land_: 964 sq km<br>
 _water_: 0 sq km<br>
 

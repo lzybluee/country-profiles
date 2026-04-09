@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/ve.png)
+![locator](../media/locators/ve.png)
+![map](../media/maps/ve.png)
+
 # Venezuela
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern South America, bordering the Caribbean Sea and the North Atlantic Ocean
 South America<br>
 
 **Area**<br>
-_total _: 912,050 sq km<br>
+_total_: 912,050 sq km<br>
 _land_: 882,050 sq km<br>
 _water_: 30,000 sq km<br>
 

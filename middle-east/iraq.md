@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/iz.png)
+![locator](../media/locators/iz.png)
+![map](../media/maps/iz.png)
+
 # Iraq
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, bordering the Persian Gulf, between Iran and Kuwait<br>
 Middle East<br>
 
 **Area**<br>
-_total _: 438,317 sq km<br>
+_total_: 438,317 sq km<br>
 _land_: 437,367 sq km<br>
 _water_: 950 sq km<br>
 

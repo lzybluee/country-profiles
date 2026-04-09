@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/zi.png)
+![locator](../media/locators/zi.png)
+![map](../media/maps/zi.png)
+
 # Zimbabwe
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, between South Africa and Zambia<br>
 Africa<br>
 
 **Area**<br>
-_total _: 390,757 sq km<br>
+_total_: 390,757 sq km<br>
 _land_: 386,847 sq km<br>
 _water_: 3,910 sq km<br>
 

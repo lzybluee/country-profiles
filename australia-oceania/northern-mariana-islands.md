@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (United States)_
 
+![flag](../media/flags/cq.png)
+![locator](../media/locators/cq.png)
+![map](../media/maps/cq.png)
+
 # Northern Mariana Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, islands in the North Pacific Ocean, about three-quarters of the way fro
 Oceania<br>
 
 **Area**<br>
-_total _: 464 sq km<br>
+_total_: 464 sq km<br>
 _land_: 464 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> consists of 14 islands including Saipan, Rota, and Tinian<br>

@@ -1,5 +1,9 @@
 _Europe / Dependencies (United Kingdom)_
 
+![flag](../media/flags/ax.png)
+![locator](../media/locators/ax.png)
+![map](../media/maps/ax.png)
+
 # Akrotiri
 
 ## Introduction

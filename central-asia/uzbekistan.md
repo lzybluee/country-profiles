@@ -1,5 +1,9 @@
 _Central Asia / Countries_
 
+![flag](../media/flags/uz.png)
+![locator](../media/locators/uz.png)
+![map](../media/maps/uz.png)
+
 # Uzbekistan
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Asia, north of Turkmenistan, south of Kazakhstan<br>
 Asia<br>
 
 **Area**<br>
-_total _: 447,400 sq km<br>
+_total_: 447,400 sq km<br>
 _land_: 425,400 sq km<br>
 _water_: 22,000 sq km<br>
 

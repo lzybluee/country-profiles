@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (United States)_
 
+![flag](../media/flags/um.png)
+![locator](../media/locators/um.png)
+![map](../media/maps/um.png)
+
 # United States Pacific Island Wildlife Refuges
 
 ## Introduction

@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (United Kingdom)_
 
+![flag](../media/flags/av.png)
+![locator](../media/locators/av.png)
+![map](../media/maps/av.png)
+
 # Anguilla
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, islands between the Caribbean Sea and North Atlantic Ocean, east of P
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 91 sq km<br>
+_total_: 91 sq km<br>
 _land_: 91 sq km<br>
 _water_: 0 sq km<br>
 

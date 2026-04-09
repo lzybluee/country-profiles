@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/am.png)
+![locator](../media/locators/am.png)
+![map](../media/maps/am.png)
+
 # Armenia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southwestern Asia, between Turkey (to the west) and Azerbaijan; note - Armenia v
 Asia<br>
 
 **Area**<br>
-_total _: 29,743 sq km<br>
+_total_: 29,743 sq km<br>
 _land_: 28,203 sq km<br>
 _water_: 1,540 sq km<br>
 

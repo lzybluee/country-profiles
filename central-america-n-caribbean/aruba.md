@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (Netherlands)_
 
+![flag](../media/flags/aa.png)
+![locator](../media/locators/aa.png)
+![map](../media/maps/aa.png)
+
 # Aruba
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island in the Caribbean Sea, north of Venezuela<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 180 sq km<br>
+_total_: 180 sq km<br>
 _land_: 180 sq km<br>
 _water_: 0 sq km<br>
 

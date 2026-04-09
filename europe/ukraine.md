@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/up.png)
+![locator](../media/locators/up.png)
+![map](../media/maps/up.png)
+
 # Ukraine
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Europe, bordering the Black Sea, between Poland, Belarus, Romania, and M
 AsiaEurope<br>
 
 **Area**<br>
-_total _: 603,550 sq km<br>
+_total_: 603,550 sq km<br>
 _land_: 579,330 sq km<br>
 _water_: 24,220 sq km<br>
 <strong>note:</strong> Russia annexed Crimea in 2014, an area of approximately 27,000 sq km (10,400 sq miles)<br>

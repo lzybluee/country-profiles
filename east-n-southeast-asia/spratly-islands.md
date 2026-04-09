@@ -1,5 +1,8 @@
 _East & Southeast Asia / Miscellaneous_
 
+![locator](../media/locators/pg.png)
+![map](../media/maps/pg.png)
+
 # Spratly Islands
 
 ## Introduction
@@ -19,7 +22,7 @@ Southeastern Asia, group of reefs and islands in the South China Sea, about two-
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 5 sq km less than<br>
+_total_: 5 sq km less than<br>
 _land_: 5 sq km less than<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes over 100 islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km (158,000 sq mi) in the central South China Sea<br>

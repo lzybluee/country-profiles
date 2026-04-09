@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (France)_
 
+![flag](../media/flags/rn.png)
+![locator](../media/locators/rn.png)
+![map](../media/maps/rn.png)
+
 # Saint Martin
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, located in the Leeward Islands (northern) group; French part of the i
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 50 sq km<br>
+_total_: 50 sq km<br>
 _land_: 50 sq km<br>
 _water_: negligible<br>
 

@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/bn.png)
+![locator](../media/locators/bn.png)
+![map](../media/maps/bn.png)
+
 # Benin
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the Bight of Benin, between Nigeria and Togo<br>
 Africa<br>
 
 **Area**<br>
-_total _: 112,622 sq km<br>
+_total_: 112,622 sq km<br>
 _land_: 110,622 sq km<br>
 _water_: 2,000 sq km<br>
 

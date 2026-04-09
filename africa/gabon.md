@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/gb.png)
+![locator](../media/locators/gb.png)
+![map](../media/maps/gb.png)
+
 # Gabon
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, bordering the Atlantic Ocean at the Equator, between Republic of
 Africa<br>
 
 **Area**<br>
-_total _: 267,667 sq km<br>
+_total_: 267,667 sq km<br>
 _land_: 257,667 sq km<br>
 _water_: 10,000 sq km<br>
 

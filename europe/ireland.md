@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/ei.png)
+![locator](../media/locators/ei.png)
+![map](../media/maps/ei.png)
+
 # Ireland
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Europe, occupying five-sixths of the island of Ireland in the North Atla
 Europe<br>
 
 **Area**<br>
-_total _: 70,273 sq km<br>
+_total_: 70,273 sq km<br>
 _land_: 68,883 sq km<br>
 _water_: 1,390 sq km<br>
 

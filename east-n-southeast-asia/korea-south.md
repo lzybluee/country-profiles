@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/ks.png)
+![locator](../media/locators/ks.png)
+![map](../media/maps/ks.png)
+
 # Korea, South
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Asia, southern half of the Korean Peninsula bordering the Sea of Japan a
 Asia<br>
 
 **Area**<br>
-_total _: 99,720 sq km<br>
+_total_: 99,720 sq km<br>
 _land_: 96,920 sq km<br>
 _water_: 2,800 sq km<br>
 

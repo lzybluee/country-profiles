@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/nz.png)
+![locator](../media/locators/nz.png)
+![map](../media/maps/nz.png)
+
 # New Zealand
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, islands in the South Pacific Ocean, southeast of Australia<br>
 Oceania<br>
 
 **Area**<br>
-_total _: 268,838 sq km<br>
+_total_: 268,838 sq km<br>
 _land_: 264,537 sq km<br>
 _water_: 4,301 sq km<br>
 <strong>note:</strong> includes Antipodes Islands, Auckland Islands, Bounty Islands, Campbell Island, Chatham Islands, and Kermadec Islands<br>

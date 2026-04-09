@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/bm.png)
+![locator](../media/locators/bm.png)
+![map](../media/maps/bm.png)
+
 # Burma
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, bordering the Andaman Sea and the Bay of Bengal, between Bang
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 676,578 sq km<br>
+_total_: 676,578 sq km<br>
 _land_: 653,508 sq km<br>
 _water_: 23,070 sq km<br>
 

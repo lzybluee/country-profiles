@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/nl.png)
+![locator](../media/locators/nl.png)
+![map](../media/maps/nl.png)
+
 # Netherlands
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Europe, bordering the North Sea, between Belgium and Germany<br>
 Europe<br>
 
 **Area**<br>
-_total _: 41,543 sq km<br>
+_total_: 41,543 sq km<br>
 _land_: 33,893 sq km<br>
 _water_: 7,650 sq km<br>
 

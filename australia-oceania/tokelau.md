@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (New Zealand)_
 
+![flag](../media/flags/tl.png)
+![locator](../media/locators/tl.png)
+![map](../media/maps/tl.png)
+
 # Tokelau
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, group of three atolls in the South Pacific Ocean, about one-half of the
 Oceania<br>
 
 **Area**<br>
-_total _: 12 sq km<br>
+_total_: 12 sq km<br>
 _land_: 12 sq km<br>
 _water_: 0 sq km<br>
 

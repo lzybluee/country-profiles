@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/da.png)
+![locator](../media/locators/da.png)
+![map](../media/maps/da.png)
+
 # Denmark
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Europe, bordering the Baltic Sea and the North Sea, on a peninsula nort
 Europe<br>
 
 **Area**<br>
-_total _: 43,094 sq km<br>
+_total_: 43,094 sq km<br>
 _land_: 42,434 sq km<br>
 _water_: 660 sq km<br>
 <strong>note:</strong> includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn) but excludes the Faroe Islands and Greenland<br>

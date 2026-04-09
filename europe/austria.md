@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/au.png)
+![locator](../media/locators/au.png)
+![map](../media/maps/au.png)
+
 # Austria
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Europe, north of Italy and Slovenia<br>
 Europe<br>
 
 **Area**<br>
-_total _: 83,871 sq km<br>
+_total_: 83,871 sq km<br>
 _land_: 82,445 sq km<br>
 _water_: 1,426 sq km<br>
 

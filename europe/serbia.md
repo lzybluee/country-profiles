@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/ri.png)
+![locator](../media/locators/ri.png)
+![map](../media/maps/ri.png)
+
 # Serbia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe, between Macedonia and Hungary<br>
 Europe<br>
 
 **Area**<br>
-_total _: 77,474 sq km<br>
+_total_: 77,474 sq km<br>
 _land_: 77,474 sq km<br>
 _water_: 0 sq km<br>
 

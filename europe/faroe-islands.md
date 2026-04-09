@@ -1,5 +1,9 @@
 _Europe / Dependencies (Denmark)_
 
+![flag](../media/flags/fo.png)
+![locator](../media/locators/fo.png)
+![map](../media/maps/fo.png)
+
 # Faroe Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Europe, island group between the Norwegian Sea and the North Atlantic O
 Europe<br>
 
 **Area**<br>
-_total _: 1,393 sq km<br>
+_total_: 1,393 sq km<br>
 _land_: 1,393 sq km<br>
 _water_: 0 sq km (some lakes and streams)<br>
 

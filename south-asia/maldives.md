@@ -1,5 +1,9 @@
 _South Asia / Countries_
 
+![flag](../media/flags/mv.png)
+![locator](../media/locators/mv.png)
+![map](../media/maps/mv.png)
+
 # Maldives
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Asia, group of atolls in the Indian Ocean, south-southwest of India<br>
 Asia<br>
 
 **Area**<br>
-_total _: 298 sq km<br>
+_total_: 298 sq km<br>
 _land_: 298 sq km<br>
 _water_: 0 sq km<br>
 

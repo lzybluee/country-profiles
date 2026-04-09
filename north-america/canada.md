@@ -1,5 +1,9 @@
 _North America / Countries_
 
+![flag](../media/flags/ca.png)
+![locator](../media/locators/ca.png)
+![map](../media/maps/ca.png)
+
 # Canada
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern North America, bordering the North Atlantic Ocean on the east, North Pa
 North America<br>
 
 **Area**<br>
-_total _: 9,984,670 sq km<br>
+_total_: 9,984,670 sq km<br>
 _land_: 9,093,507 sq km<br>
 _water_: 891,163 sq km<br>
 

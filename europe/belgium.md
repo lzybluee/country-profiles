@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/be.png)
+![locator](../media/locators/be.png)
+![map](../media/maps/be.png)
+
 # Belgium
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Europe, bordering the North Sea, between France and the Netherlands<br>
 Europe<br>
 
 **Area**<br>
-_total _: 30,528 sq km<br>
+_total_: 30,528 sq km<br>
 _land_: 30,278 sq km<br>
 _water_: 250 sq km<br>
 

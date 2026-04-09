@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/st.png)
+![locator](../media/locators/st.png)
+![map](../media/maps/st.png)
+
 # Saint Lucia
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island between the Caribbean Sea and North Atlantic Ocean, north of T
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 616 sq km<br>
+_total_: 616 sq km<br>
 _land_: 606 sq km<br>
 _water_: 10 sq km<br>
 

@@ -1,5 +1,9 @@
 _Europe / Dependencies (United Kingdom)_
 
+![flag](../media/flags/gk.png)
+![locator](../media/locators/gk.png)
+![map](../media/maps/gk.png)
+
 # Guernsey
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Europe, islands in the English Channel, northwest of France<br>
 Europe<br>
 
 **Area**<br>
-_total _: 78 sq km<br>
+_total_: 78 sq km<br>
 _land_: 78 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Alderney, Guernsey, Herm, Sark, and some other smaller islands<br>

@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/lo.png)
+![locator](../media/locators/lo.png)
+![map](../media/maps/lo.png)
+
 # Slovakia
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Europe, south of Poland<br>
 Europe<br>
 
 **Area**<br>
-_total _: 49,035 sq km<br>
+_total_: 49,035 sq km<br>
 _land_: 48,105 sq km<br>
 _water_: 930 sq km<br>
 

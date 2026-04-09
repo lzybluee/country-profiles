@@ -1,5 +1,9 @@
 _Central Asia / Countries_
 
+![flag](../media/flags/kg.png)
+![locator](../media/locators/kg.png)
+![map](../media/maps/kg.png)
+
 # Kyrgyzstan
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Asia, west of China, south of Kazakhstan<br>
 Asia<br>
 
 **Area**<br>
-_total _: 199,951 sq km<br>
+_total_: 199,951 sq km<br>
 _land_: 191,801 sq km<br>
 _water_: 8,150 sq km<br>
 

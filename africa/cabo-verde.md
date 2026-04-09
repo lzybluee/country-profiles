@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/cv.png)
+![locator](../media/locators/cv.png)
+![map](../media/maps/cv.png)
+
 # Cabo Verde
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, group of islands in the North Atlantic Ocean, west of Senegal<br
 Africa<br>
 
 **Area**<br>
-_total _: 4,033 sq km<br>
+_total_: 4,033 sq km<br>
 _land_: 4,033 sq km<br>
 _water_: 0 sq km<br>
 

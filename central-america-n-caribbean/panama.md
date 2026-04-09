@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/pm.png)
+![locator](../media/locators/pm.png)
+![map](../media/maps/pm.png)
+
 # Panama
 
 ## Introduction
@@ -19,7 +23,7 @@ Central America, bordering both the Caribbean Sea and the North Pacific Ocean, b
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 75,420 sq km<br>
+_total_: 75,420 sq km<br>
 _land_: 74,340 sq km<br>
 _water_: 1,080 sq km<br>
 

@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/no.png)
+![locator](../media/locators/no.png)
+![map](../media/maps/no.png)
+
 # Norway
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Europe, bordering the North Sea and the North Atlantic Ocean, west of S
 Europe<br>
 
 **Area**<br>
-_total _: 323,802 sq km<br>
+_total_: 323,802 sq km<br>
 _land_: 304,282 sq km<br>
 _water_: 19,520 sq km<br>
 

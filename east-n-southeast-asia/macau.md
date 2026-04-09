@@ -1,5 +1,9 @@
 _East & Southeast Asia / Dependencies (China)_
 
+![flag](../media/flags/mc.png)
+![locator](../media/locators/mc.png)
+![map](../media/maps/mc.png)
+
 # Macau
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Asia, bordering the South China Sea and China<br>
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 28 sq km<br>
+_total_: 28 sq km<br>
 _land_: 28.2 sq km<br>
 _water_: 0 sq km<br>
 

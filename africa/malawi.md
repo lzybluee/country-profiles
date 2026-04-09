@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/mi.png)
+![locator](../media/locators/mi.png)
+![map](../media/maps/mi.png)
+
 # Malawi
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, east of Zambia, west and north of Mozambique<br>
 Africa<br>
 
 **Area**<br>
-_total _: 118,484 sq km<br>
+_total_: 118,484 sq km<br>
 _land_: 94,080 sq km<br>
 _water_: 24,404 sq km<br>
 

@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/an.png)
+![locator](../media/locators/an.png)
+![map](../media/maps/an.png)
+
 # Andorra
 
 ## Introduction
@@ -19,7 +23,7 @@ Southwestern Europe, Pyrenees mountains, on the border between France and Spain<
 Europe<br>
 
 **Area**<br>
-_total _: 468 sq km<br>
+_total_: 468 sq km<br>
 _land_: 468 sq km<br>
 _water_: 0 sq km<br>
 

@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/tt.png)
+![locator](../media/locators/tt.png)
+![map](../media/maps/tt.png)
+
 # Timor-Leste
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, northwest of Australia in the Lesser Sunda Islands at the eas
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 14,874 sq km<br>
+_total_: 14,874 sq km<br>
 _land_: 14,874 sq km<br>
 _water_: 0 sq km<br>
 

@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/as.png)
+![locator](../media/locators/as.png)
+![map](../media/maps/as.png)
+
 # Australia
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, continent between the Indian Ocean and the South Pacific Ocean<br>
 Oceania<br>
 
 **Area**<br>
-_total _: 7,741,220 sq km<br>
+_total_: 7,741,220 sq km<br>
 _land_: 7,682,300 sq km<br>
 _water_: 58,920 sq km<br>
 <strong>note:</strong> includes Lord Howe Island and Macquarie Island<br>

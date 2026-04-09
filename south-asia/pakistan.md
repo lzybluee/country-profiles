@@ -1,5 +1,9 @@
 _South Asia / Countries_
 
+![flag](../media/flags/pk.png)
+![locator](../media/locators/pk.png)
+![map](../media/maps/pk.png)
+
 # Pakistan
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Asia, bordering the Arabian Sea, between India on the east and Iran and
 Asia<br>
 
 **Area**<br>
-_total _: 796,095 sq km<br>
+_total_: 796,095 sq km<br>
 _land_: 770,875 sq km<br>
 _water_: 25,220 sq km<br>
 

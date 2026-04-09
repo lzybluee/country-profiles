@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/gt.png)
+![locator](../media/locators/gt.png)
+![map](../media/maps/gt.png)
+
 # Guatemala
 
 ## Introduction
@@ -19,7 +23,7 @@ Central America, bordering the North Pacific Ocean, between El Salvador and Mexi
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 108,889 sq km<br>
+_total_: 108,889 sq km<br>
 _land_: 107,159 sq km<br>
 _water_: 1,730 sq km<br>
 

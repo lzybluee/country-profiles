@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (United States)_
 
+![flag](../media/flags/rq.png)
+![locator](../media/locators/rq.png)
+![map](../media/maps/rq.png)
+
 # Puerto Rico
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, east o
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 9,104 sq km<br>
+_total_: 9,104 sq km<br>
 _land_: 8,959 sq km<br>
 _water_: 145 sq km<br>
 

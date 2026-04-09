@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/gr.png)
+![locator](../media/locators/gr.png)
+![map](../media/maps/gr.png)
+
 # Greece
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Europe, bordering the Aegean Sea, Ionian Sea, and the Mediterranean Sea
 Europe<br>
 
 **Area**<br>
-_total _: 131,957 sq km<br>
+_total_: 131,957 sq km<br>
 _land_: 130,647 sq km<br>
 _water_: 1,310 sq km<br>
 

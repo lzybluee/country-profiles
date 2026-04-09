@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/bl.png)
+![locator](../media/locators/bl.png)
+![map](../media/maps/bl.png)
+
 # Bolivia
 
 ## Introduction
@@ -19,7 +23,7 @@ Central South America, southwest of Brazil<br>
 South America<br>
 
 **Area**<br>
-_total _: 1,098,581 sq km<br>
+_total_: 1,098,581 sq km<br>
 _land_: 1,083,301 sq km<br>
 _water_: 15,280 sq km<br>
 

@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (United States)_
 
+![flag](../media/flags/bq.png)
+![locator](../media/locators/bq.png)
+![map](../media/maps/bq.png)
+
 # Navassa Island
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island in the Caribbean Sea, 30 nm west of Tiburon Peninsula of Haiti
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 5 sq km<br>
+_total_: 5 sq km<br>
 _land_: 5.4 sq km<br>
 _water_: 0 sq km<br>
 

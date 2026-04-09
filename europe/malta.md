@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/mt.png)
+![locator](../media/locators/mt.png)
+![map](../media/maps/mt.png)
+
 # Malta
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Europe, islands in the Mediterranean Sea, south of Sicily (Italy)<br>
 Europe<br>
 
 **Area**<br>
-_total _: 316 sq km<br>
+_total_: 316 sq km<br>
 _land_: 316 sq km<br>
 _water_: 0 sq km<br>
 

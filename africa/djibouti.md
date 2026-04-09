@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/dj.png)
+![locator](../media/locators/dj.png)
+![map](../media/maps/dj.png)
+
 # Djibouti
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Africa, bordering the Gulf of Aden and the Red Sea, between Eritrea and 
 Africa<br>
 
 **Area**<br>
-_total _: 23,200 sq km<br>
+_total_: 23,200 sq km<br>
 _land_: 23,180 sq km<br>
 _water_: 20 sq km<br>
 

@@ -1,5 +1,9 @@
 _Central Asia / Countries_
 
+![flag](../media/flags/tx.png)
+![locator](../media/locators/tx.png)
+![map](../media/maps/tx.png)
+
 # Turkmenistan
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Asia, bordering the Caspian Sea, between Iran and Kazakhstan<br>
 Asia<br>
 
 **Area**<br>
-_total _: 488,100 sq km<br>
+_total_: 488,100 sq km<br>
 _land_: 469,930 sq km<br>
 _water_: 18,170 sq km<br>
 

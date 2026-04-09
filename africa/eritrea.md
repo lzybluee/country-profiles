@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/er.png)
+![locator](../media/locators/er.png)
+![map](../media/maps/er.png)
+
 # Eritrea
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Africa, bordering the Red Sea, between Djibouti and Sudan<br>
 Africa<br>
 
 **Area**<br>
-_total _: 117,600 sq km<br>
+_total_: 117,600 sq km<br>
 _land_: 101,000 sq km<br>
 _water_: 16,600 sq km<br>
 

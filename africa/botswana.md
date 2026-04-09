@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/bc.png)
+![locator](../media/locators/bc.png)
+![map](../media/maps/bc.png)
+
 # Botswana
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, north of South Africa<br>
 Africa<br>
 
 **Area**<br>
-_total _: 581,730 sq km<br>
+_total_: 581,730 sq km<br>
 _land_: 566,730 sq km<br>
 _water_: 15,000 sq km<br>
 

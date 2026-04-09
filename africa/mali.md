@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ml.png)
+![locator](../media/locators/ml.png)
+![map](../media/maps/ml.png)
+
 # Mali
 
 ## Introduction
@@ -19,7 +23,7 @@ interior Western Africa, southwest of Algeria, north of Guinea, Cote d'Ivoire, a
 Africa<br>
 
 **Area**<br>
-_total _: 1,240,192 sq km<br>
+_total_: 1,240,192 sq km<br>
 _land_: 1,220,190 sq km<br>
 _water_: 20,002 sq km<br>
 

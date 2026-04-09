@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/ls.png)
+![locator](../media/locators/ls.png)
+![map](../media/maps/ls.png)
+
 # Liechtenstein
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Europe, between Austria and Switzerland<br>
 Europe<br>
 
 **Area**<br>
-_total _: 160 sq km<br>
+_total_: 160 sq km<br>
 _land_: 160 sq km<br>
 _water_: 0 sq km<br>
 

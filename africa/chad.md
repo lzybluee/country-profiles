@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/cd.png)
+![locator](../media/locators/cd.png)
+![map](../media/maps/cd.png)
+
 # Chad
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, south of Libya<br>
 Africa<br>
 
 **Area**<br>
-_total _: 1.284 million sq km<br>
+_total_: 1.284 million sq km<br>
 _land_: 1,259,200 sq km<br>
 _water_: 24,800 sq km<br>
 

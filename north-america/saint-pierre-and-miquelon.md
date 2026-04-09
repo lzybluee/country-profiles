@@ -1,5 +1,9 @@
 _North America / Dependencies (France)_
 
+![flag](../media/flags/sb.png)
+![locator](../media/locators/sb.png)
+![map](../media/maps/sb.png)
+
 # Saint Pierre and Miquelon
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern North America, islands in the North Atlantic Ocean, south of Newfoundla
 North America<br>
 
 **Area**<br>
-_total _: 242 sq km<br>
+_total_: 242 sq km<br>
 _land_: 242 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes eight small islands in the Saint Pierre and the Miquelon groups<br>

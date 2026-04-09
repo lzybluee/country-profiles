@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (Australia)_
 
+![flag](../media/flags/at.png)
+![locator](../media/locators/at.png)
+![map](../media/maps/at.png)
+
 # Ashmore and Cartier Islands
 
 ## Introduction
@@ -20,7 +24,7 @@ Southeastern Asia, islands in the Indian Ocean, midway between northwestern Aust
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 5 sq km<br>
+_total_: 5 sq km<br>
 _land_: 5 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island<br>

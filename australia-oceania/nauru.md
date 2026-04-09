@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/nr.png)
+![locator](../media/locators/nr.png)
+![map](../media/maps/nr.png)
+
 # Nauru
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, island in the South Pacific Ocean, south of the Marshall Islands<br>
 Oceania<br>
 
 **Area**<br>
-_total _: 21 sq km<br>
+_total_: 21 sq km<br>
 _land_: 21 sq km<br>
 _water_: 0 sq km<br>
 

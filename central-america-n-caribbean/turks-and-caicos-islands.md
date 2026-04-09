@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (United Kingdom)_
 
+![flag](../media/flags/tk.png)
+![locator](../media/locators/tk.png)
+![map](../media/maps/tk.png)
+
 # Turks and Caicos Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ two island groups in the North Atlantic Ocean, southeast of The Bahamas, north o
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 948 sq km<br>
+_total_: 948 sq km<br>
 _land_: 948 sq km<br>
 _water_: 0 sq km<br>
 

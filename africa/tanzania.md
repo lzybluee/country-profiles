@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/tz.png)
+![locator](../media/locators/tz.png)
+![map](../media/maps/tz.png)
+
 # Tanzania
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique<br>
 Africa<br>
 
 **Area**<br>
-_total _: 947,300 sq km<br>
+_total_: 947,300 sq km<br>
 _land_: 885,800 sq km<br>
 _water_: 61,500 sq km<br>
 <strong>note:</strong> includes the islands of Mafia, Pemba, and Zanzibar<br>

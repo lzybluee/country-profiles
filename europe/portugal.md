@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/po.png)
+![locator](../media/locators/po.png)
+![map](../media/maps/po.png)
+
 # Portugal
 
 ## Introduction
@@ -19,7 +23,7 @@ Southwestern Europe, bordering the North Atlantic Ocean, west of Spain<br>
 Europe<br>
 
 **Area**<br>
-_total _: 92,090 sq km<br>
+_total_: 92,090 sq km<br>
 _land_: 91,470 sq km<br>
 _water_: 620 sq km<br>
 <strong>note:</strong> includes Azores and Madeira Islands<br>

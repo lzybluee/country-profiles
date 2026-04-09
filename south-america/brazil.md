@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/br.png)
+![locator](../media/locators/br.png)
+![map](../media/maps/br.png)
+
 # Brazil
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern South America, bordering the Atlantic Ocean<br>
 South America<br>
 
 **Area**<br>
-_total _: 8,515,770 sq km<br>
+_total_: 8,515,770 sq km<br>
 _land_: 8,358,140 sq km<br>
 _water_: 157,630 sq km<br>
 <strong>note:</strong> includes Arquipelago de Fernando de Noronha, Atol das Rocas, Ilha da Trindade, Ilhas Martin Vaz, and Penedos de Sao Pedro e Sao Paulo<br>

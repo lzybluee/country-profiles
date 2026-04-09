@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (Australia)_
 
+![flag](../media/flags/nf.png)
+![locator](../media/locators/nf.png)
+![map](../media/maps/nf.png)
+
 # Norfolk Island
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, island in the South Pacific Ocean, east of Australia<br>
 Oceania<br>
 
 **Area**<br>
-_total _: 36 sq km<br>
+_total_: 36 sq km<br>
 _land_: 36 sq km<br>
 _water_: 0 sq km<br>
 

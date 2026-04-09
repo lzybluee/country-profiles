@@ -1,5 +1,9 @@
 _Central Asia / Countries_
 
+![flag](../media/flags/rs.png)
+![locator](../media/locators/rs.png)
+![map](../media/maps/rs.png)
+
 # Russia
 
 ## Introduction
@@ -19,7 +23,7 @@ North Asia bordering the Arctic Ocean, extending from Eastern Europe (the portio
 Asia<br>
 
 **Area**<br>
-_total _: 17,098,242 sq km<br>
+_total_: 17,098,242 sq km<br>
 _land_: 16,377,742 sq km<br>
 _water_: 720,500 sq km<br>
 

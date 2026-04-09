@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ao.png)
+![locator](../media/locators/ao.png)
+![map](../media/maps/ao.png)
+
 # Angola
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, bordering the South Atlantic Ocean, between Namibia and Democra
 Africa<br>
 
 **Area**<br>
-_total _: 1,246,700 sq km<br>
+_total_: 1,246,700 sq km<br>
 _land_: 1,246,700 sq km<br>
 _water_: 0 sq km<br>
 

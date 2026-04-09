@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/ar.png)
+![locator](../media/locators/ar.png)
+![map](../media/maps/ar.png)
+
 # Argentina
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern South America, bordering the South Atlantic Ocean, between Chile and Ur
 South America<br>
 
 **Area**<br>
-_total _: 2,780,400 sq km<br>
+_total_: 2,780,400 sq km<br>
 _land_: 2,736,690 sq km<br>
 _water_: 43,710 sq km<br>
 

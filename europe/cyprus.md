@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/cy.png)
+![locator](../media/locators/cy.png)
+![map](../media/maps/cy.png)
+
 # Cyprus
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, island in the Mediterranean Sea, south of Turkey; note - Cyprus vie
 Middle East<br>
 
 **Area**<br>
-_total _: 9,251 sq km (of which 3,355 sq km are in north Cyprus)<br>
+_total_: 9,251 sq km (of which 3,355 sq km are in north Cyprus)<br>
 _land_: 9,241 sq km<br>
 _water_: 10 sq km<br>
 

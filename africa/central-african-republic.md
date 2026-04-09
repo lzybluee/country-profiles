@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ct.png)
+![locator](../media/locators/ct.png)
+![map](../media/maps/ct.png)
+
 # Central African Republic
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, north of Democratic Republic of the Congo<br>
 Africa<br>
 
 **Area**<br>
-_total _: 622,984 sq km<br>
+_total_: 622,984 sq km<br>
 _land_: 622,984 sq km<br>
 _water_: 0 sq km<br>
 

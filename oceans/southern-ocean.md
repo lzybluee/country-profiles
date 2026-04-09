@@ -1,5 +1,7 @@
 _Oceans / Oceans_
 
+![map](../media/maps/oo.png)
+
 # Southern Ocean
 
 ## Introduction
@@ -19,7 +21,7 @@ body of water between 60 degrees south latitude and Antarctica<br>
 Antarctic Region<br>
 
 **Area**<br>
-_total _: 21.96 million sq km<br>
+_total_: 21.96 million sq km<br>
 <strong>note:</strong> includes Amundsen Sea, Bellingshausen Sea, part of the Drake Passage, Ross Sea, a small part of the Scotia Sea, Weddell Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>

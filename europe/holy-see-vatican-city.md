@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/vt.png)
+![locator](../media/locators/vt.png)
+![map](../media/maps/vt.png)
+
 # Holy See (Vatican City)
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Europe, an enclave of Rome (Italy)<br>
 Europe<br>
 
 **Area**<br>
-_total _: 0 sq km<br>
+_total_: 0 sq km<br>
 _land_: 0.44 sq km<br>
 _water_: 0 sq km<br>
 

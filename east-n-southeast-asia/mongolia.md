@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/mg.png)
+![locator](../media/locators/mg.png)
+![map](../media/maps/mg.png)
+
 # Mongolia
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Asia, between China and Russia<br>
 Asia<br>
 
 **Area**<br>
-_total _: 1,564,116 sq km<br>
+_total_: 1,564,116 sq km<br>
 _land_: 1,553,556 sq km<br>
 _water_: 10,560 sq km<br>
 

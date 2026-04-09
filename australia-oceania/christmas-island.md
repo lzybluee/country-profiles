@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (Australia)_
 
+![flag](../media/flags/kt.png)
+![locator](../media/locators/kt.png)
+![map](../media/maps/kt.png)
+
 # Christmas Island
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, island in the Indian Ocean, south of Indonesia<br>
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 135 sq km<br>
+_total_: 135 sq km<br>
 _land_: 135 sq km<br>
 _water_: 0 sq km<br>
 

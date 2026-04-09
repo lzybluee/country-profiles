@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/li.png)
+![locator](../media/locators/li.png)
+![map](../media/maps/li.png)
+
 # Liberia
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the North Atlantic Ocean, between Cote d'Ivoire and Si
 Africa<br>
 
 **Area**<br>
-_total _: 111,369 sq km<br>
+_total_: 111,369 sq km<br>
 _land_: 96,320 sq km<br>
 _water_: 15,049 sq km<br>
 

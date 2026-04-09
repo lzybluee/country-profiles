@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (France)_
 
+![flag](../media/flags/nc.png)
+![locator](../media/locators/nc.png)
+![map](../media/maps/nc.png)
+
 # New Caledonia
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, islands in the South Pacific Ocean, east of Australia<br>
 Oceania<br>
 
 **Area**<br>
-_total _: 18,575 sq km<br>
+_total_: 18,575 sq km<br>
 _land_: 18,275 sq km<br>
 _water_: 300 sq km<br>
 

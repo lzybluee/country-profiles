@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/sl.png)
+![locator](../media/locators/sl.png)
+![map](../media/maps/sl.png)
+
 # Sierra Leone
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the North Atlantic Ocean, between Guinea and Liberia<b
 Africa<br>
 
 **Area**<br>
-_total _: 71,740 sq km<br>
+_total_: 71,740 sq km<br>
 _land_: 71,620 sq km<br>
 _water_: 120 sq km<br>
 

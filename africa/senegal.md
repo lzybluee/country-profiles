@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/sg.png)
+![locator](../media/locators/sg.png)
+![map](../media/maps/sg.png)
+
 # Senegal
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Ma
 Africa<br>
 
 **Area**<br>
-_total _: 196,722 sq km<br>
+_total_: 196,722 sq km<br>
 _land_: 192,530 sq km<br>
 _water_: 4,192 sq km<br>
 

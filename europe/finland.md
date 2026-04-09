@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/fi.png)
+![locator](../media/locators/fi.png)
+![map](../media/maps/fi.png)
+
 # Finland
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland,
 Europe<br>
 
 **Area**<br>
-_total _: 338,145 sq km<br>
+_total_: 338,145 sq km<br>
 _land_: 303,815 sq km<br>
 _water_: 34,330 sq km<br>
 

@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/my.png)
+![locator](../media/locators/my.png)
+![map](../media/maps/my.png)
+
 # Malaysia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, peninsula bordering Thailand and northern one-third of the is
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 329,847 sq km<br>
+_total_: 329,847 sq km<br>
 _land_: 328,657 sq km<br>
 _water_: 1,190 sq km<br>
 

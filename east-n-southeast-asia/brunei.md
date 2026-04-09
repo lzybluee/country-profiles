@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/bx.png)
+![locator](../media/locators/bx.png)
+![map](../media/maps/bx.png)
+
 # Brunei
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, along the northern coast of the island of Borneo, bordering t
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 5,765 sq km<br>
+_total_: 5,765 sq km<br>
 _land_: 5,265 sq km<br>
 _water_: 500 sq km<br>
 

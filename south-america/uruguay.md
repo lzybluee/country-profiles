@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/uy.png)
+![locator](../media/locators/uy.png)
+![map](../media/maps/uy.png)
+
 # Uruguay
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern South America, bordering the South Atlantic Ocean, between Argentina an
 South America<br>
 
 **Area**<br>
-_total _: 176,215 sq km<br>
+_total_: 176,215 sq km<br>
 _land_: 175,015 sq km<br>
 _water_: 1,200 sq km<br>
 

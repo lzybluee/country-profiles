@@ -1,5 +1,9 @@
 _Europe / Dependencies (United Kingdom)_
 
+![flag](../media/flags/im.png)
+![locator](../media/locators/im.png)
+![map](../media/maps/im.png)
+
 # Isle of Man
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Europe, island in the Irish Sea, between Great Britain and Ireland<br>
 Europe<br>
 
 **Area**<br>
-_total _: 572 sq km<br>
+_total_: 572 sq km<br>
 _land_: 572 sq km<br>
 _water_: 0 sq km<br>
 

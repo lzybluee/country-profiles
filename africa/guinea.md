@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/gv.png)
+![locator](../media/locators/gv.png)
+![map](../media/maps/gv.png)
+
 # Guinea
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Si
 Africa<br>
 
 **Area**<br>
-_total _: 245,857 sq km<br>
+_total_: 245,857 sq km<br>
 _land_: 245,717 sq km<br>
 _water_: 140 sq km<br>
 

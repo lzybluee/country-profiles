@@ -1,5 +1,9 @@
 _South Asia / Countries_
 
+![flag](../media/flags/af.png)
+![locator](../media/locators/af.png)
+![map](../media/maps/af.png)
+
 # Afghanistan
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Asia, north and west of Pakistan, east of Iran<br>
 Asia<br>
 
 **Area**<br>
-_total _: 652,230 sq km<br>
+_total_: 652,230 sq km<br>
 _land_: 652,230 sq km<br>
 _water_: 0 sq km<br>
 

@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/ez.png)
+![locator](../media/locators/ez.png)
+![map](../media/maps/ez.png)
+
 # Czechia
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Europe, between Germany, Poland, Slovakia, and Austria<br>
 Europe<br>
 
 **Area**<br>
-_total _: 78,867 sq km<br>
+_total_: 78,867 sq km<br>
 _land_: 77,247 sq km<br>
 _water_: 1,620 sq km<br>
 

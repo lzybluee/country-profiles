@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/gm.png)
+![locator](../media/locators/gm.png)
+![map](../media/maps/gm.png)
+
 # Germany
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Europe, bordering the Baltic Sea and the North Sea, between the Netherla
 Europe<br>
 
 **Area**<br>
-_total _: 357,022 sq km<br>
+_total_: 357,022 sq km<br>
 _land_: 348,672 sq km<br>
 _water_: 8,350 sq km<br>
 

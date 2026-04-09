@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (New Zealand)_
 
+![flag](../media/flags/ne.png)
+![locator](../media/locators/ne.png)
+![map](../media/maps/ne.png)
+
 # Niue
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, island in the South Pacific Ocean, east of Tonga<br>
 Oceania<br>
 
 **Area**<br>
-_total _: 260 sq km<br>
+_total_: 260 sq km<br>
 _land_: 260 sq km<br>
 _water_: 0 sq km<br>
 

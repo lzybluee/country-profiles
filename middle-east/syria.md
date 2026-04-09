@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/sy.png)
+![locator](../media/locators/sy.png)
+![map](../media/maps/sy.png)
+
 # Syria
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, bordering the Mediterranean Sea, between Lebanon and Turkey<br>
 Middle East<br>
 
 **Area**<br>
-_total _: 187,437 sq km<br>
+_total_: 187,437 sq km<br>
 _land_: 185,887 sq km<br>
 _water_: 1,550 sq km<br>
 <strong>note:</strong> includes 1,295 sq km of Israeli-occupied territory<br>

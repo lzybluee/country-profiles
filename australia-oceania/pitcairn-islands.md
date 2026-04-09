@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (United Kingdom)_
 
+![flag](../media/flags/pc.png)
+![locator](../media/locators/pc.png)
+![map](../media/maps/pc.png)
+
 # Pitcairn Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, islands in the South Pacific Ocean, about midway between Peru and New Z
 Oceania<br>
 
 **Area**<br>
-_total _: 47 sq km<br>
+_total_: 47 sq km<br>
 _land_: 47 sq km<br>
 _water_: 0 sq km<br>
 

@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/mk.png)
+![locator](../media/locators/mk.png)
+![map](../media/maps/mk.png)
+
 # North Macedonia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe, north of Greece<br>
 Europe<br>
 
 **Area**<br>
-_total _: 25,713 sq km<br>
+_total_: 25,713 sq km<br>
 _land_: 25,433 sq km<br>
 _water_: 280 sq km<br>
 

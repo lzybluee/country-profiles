@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/vm.png)
+![locator](../media/locators/vm.png)
+![map](../media/maps/vm.png)
+
 # Vietnam
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, bordering the Gulf of Thailand, Gulf of Tonkin, and South Chi
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 331,210 sq km<br>
+_total_: 331,210 sq km<br>
 _land_: 310,070 sq km<br>
 _water_: 21,140 sq km<br>
 

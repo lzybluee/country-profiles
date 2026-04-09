@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ug.png)
+![locator](../media/locators/ug.png)
+![map](../media/maps/ug.png)
+
 # Uganda
 
 ## Introduction
@@ -19,7 +23,7 @@ East-Central Africa, west of Kenya, east of the Democratic Republic of the Congo
 Africa<br>
 
 **Area**<br>
-_total _: 241,038 sq km<br>
+_total_: 241,038 sq km<br>
 _land_: 197,100 sq km<br>
 _water_: 43,938 sq km<br>
 

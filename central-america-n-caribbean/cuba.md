@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/cu.png)
+![locator](../media/locators/cu.png)
+![map](../media/maps/cu.png)
+
 # Cuba
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, 150 km
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 110,860 sq km<br>
+_total_: 110,860 sq km<br>
 _land_: 109,820 sq km<br>
 _water_: 1,040 sq km<br>
 

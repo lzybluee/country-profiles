@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ga.png)
+![locator](../media/locators/ga.png)
+![map](../media/maps/ga.png)
+
 # Gambia, The
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the North Atlantic Ocean and Senegal<br>
 Africa<br>
 
 **Area**<br>
-_total _: 11,300 sq km<br>
+_total_: 11,300 sq km<br>
 _land_: 10,120 sq km<br>
 _water_: 1,180 sq km<br>
 

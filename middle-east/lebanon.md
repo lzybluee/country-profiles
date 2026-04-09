@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/le.png)
+![locator](../media/locators/le.png)
+![map](../media/maps/le.png)
+
 # Lebanon
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, bordering the Mediterranean Sea, between Israel and Syria<br>
 Middle East<br>
 
 **Area**<br>
-_total _: 10,400 sq km<br>
+_total_: 10,400 sq km<br>
 _land_: 10,230 sq km<br>
 _water_: 170 sq km<br>
 

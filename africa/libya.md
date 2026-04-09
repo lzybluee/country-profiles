@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ly.png)
+![locator](../media/locators/ly.png)
+![map](../media/maps/ly.png)
+
 # Libya
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Africa, bordering the Mediterranean Sea, between Egypt, Tunisia, and Al
 Africa<br>
 
 **Area**<br>
-_total _: 1,759,540 sq km<br>
+_total_: 1,759,540 sq km<br>
 _land_: 1,759,540 sq km<br>
 _water_: 0 sq km<br>
 

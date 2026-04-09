@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/pp.png)
+![locator](../media/locators/pp.png)
+![map](../media/maps/pp.png)
+
 # Papua New Guinea
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, group of islands including the eastern half of the island of New Guinea
 Oceania<br>
 
 **Area**<br>
-_total _: 462,840 sq km<br>
+_total_: 462,840 sq km<br>
 _land_: 452,860 sq km<br>
 _water_: 9,980 sq km<br>
 

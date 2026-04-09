@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/bu.png)
+![locator](../media/locators/bu.png)
+![map](../media/maps/bu.png)
+
 # Bulgaria
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe, bordering the Black Sea, between Romania and Turkey<br>
 Europe<br>
 
 **Area**<br>
-_total _: 110,879 sq km<br>
+_total_: 110,879 sq km<br>
 _land_: 108,489 sq km<br>
 _water_: 2,390 sq km<br>
 

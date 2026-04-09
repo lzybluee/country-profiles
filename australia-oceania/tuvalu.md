@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/tv.png)
+![locator](../media/locators/tv.png)
+![map](../media/maps/tv.png)
+
 # Tuvalu
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, island group consisting of nine coral atolls in the South Pacific Ocean
 Oceania<br>
 
 **Area**<br>
-_total _: 26 sq km<br>
+_total_: 26 sq km<br>
 _land_: 26 sq km<br>
 _water_: 0 sq km<br>
 

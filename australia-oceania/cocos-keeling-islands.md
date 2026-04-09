@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (Australia)_
 
+![flag](../media/flags/ck.png)
+![locator](../media/locators/ck.png)
+![map](../media/maps/ck.png)
+
 # Cocos (Keeling) Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, group of islands in the Indian Ocean, southwest of Indonesia,
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 14 sq km<br>
+_total_: 14 sq km<br>
 _land_: 14 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes the two main islands of West Island and Home Island<br>

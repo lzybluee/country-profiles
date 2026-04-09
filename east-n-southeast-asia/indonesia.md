@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/id.png)
+![locator](../media/locators/id.png)
+![map](../media/maps/id.png)
+
 # Indonesia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, archipelago between the Indian Ocean and the Pacific Ocean<br
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 1,904,569 sq km<br>
+_total_: 1,904,569 sq km<br>
 _land_: 1,811,569 sq km<br>
 _water_: 93,000 sq km<br>
 

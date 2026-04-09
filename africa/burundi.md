@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/by.png)
+![locator](../media/locators/by.png)
+![map](../media/maps/by.png)
+
 # Burundi
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, east of the Democratic Republic of the Congo, west of Tanzania<b
 Africa<br>
 
 **Area**<br>
-_total _: 27,830 sq km<br>
+_total_: 27,830 sq km<br>
 _land_: 25,680 sq km<br>
 _water_: 2,150 sq km<br>
 

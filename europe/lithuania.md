@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/lh.png)
+![locator](../media/locators/lh.png)
+![map](../media/maps/lh.png)
+
 # Lithuania
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Europe, bordering the Baltic Sea, between Latvia and Russia, west of Bel
 Europe<br>
 
 **Area**<br>
-_total _: 65,300 sq km<br>
+_total_: 65,300 sq km<br>
 _land_: 62,680 sq km<br>
 _water_: 2,620 sq km<br>
 

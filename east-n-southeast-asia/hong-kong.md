@@ -1,5 +1,9 @@
 _East & Southeast Asia / Dependencies (China)_
 
+![flag](../media/flags/hk.png)
+![locator](../media/locators/hk.png)
+![map](../media/maps/hk.png)
+
 # Hong Kong
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Asia, bordering the South China Sea and China<br>
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 1,108 sq km<br>
+_total_: 1,108 sq km<br>
 _land_: 1,073 sq km<br>
 _water_: 35 sq km<br>
 

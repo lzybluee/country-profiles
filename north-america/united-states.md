@@ -1,5 +1,9 @@
 _North America / Countries_
 
+![flag](../media/flags/us.png)
+![locator](../media/locators/us.png)
+![map](../media/maps/us.png)
+
 # United States
 
 ## Introduction
@@ -19,7 +23,7 @@ North America, bordering both the North Atlantic Ocean and the North Pacific Oce
 North America<br>
 
 **Area**<br>
-_total _: 9,833,517 sq km<br>
+_total_: 9,833,517 sq km<br>
 _land_: 9,147,593 sq km<br>
 _water_: 685,924 sq km<br>
 <strong>note:</strong> includes only the 50 states and District of Columbia, no overseas territories<br>

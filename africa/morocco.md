@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/mo.png)
+![locator](../media/locators/mo.png)
+![map](../media/maps/mo.png)
+
 # Morocco
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Africa, bordering the North Atlantic Ocean and the Mediterranean Sea, b
 Africa<br>
 
 **Area**<br>
-_total _: 716,550 sq km<br>
+_total_: 716,550 sq km<br>
 _land_: 716,300 sq km<br>
 _water_: 250 sq km<br>
 

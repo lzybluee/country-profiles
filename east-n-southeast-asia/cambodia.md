@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/cb.png)
+![locator](../media/locators/cb.png)
+![map](../media/maps/cb.png)
+
 # Cambodia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, bordering the Gulf of Thailand, between Thailand, Vietnam, an
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 181,035 sq km<br>
+_total_: 181,035 sq km<br>
 _land_: 176,515 sq km<br>
 _water_: 4,520 sq km<br>
 

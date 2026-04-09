@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/tn.png)
+![locator](../media/locators/tn.png)
+![map](../media/maps/tn.png)
+
 # Tonga
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, archipelago in the South Pacific Ocean, about two-thirds of the way fro
 Oceania<br>
 
 **Area**<br>
-_total _: 747 sq km<br>
+_total_: 747 sq km<br>
 _land_: 717 sq km<br>
 _water_: 30 sq km<br>
 

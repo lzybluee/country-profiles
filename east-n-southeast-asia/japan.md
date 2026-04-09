@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/ja.png)
+![locator](../media/locators/ja.png)
+![map](../media/maps/ja.png)
+
 # Japan
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Asia, island chain between the North Pacific Ocean and the Sea of Japan,
 Asia<br>
 
 **Area**<br>
-_total _: 377,915 sq km<br>
+_total_: 377,915 sq km<br>
 _land_: 364,485 sq km<br>
 _water_: 13,430 sq km<br>
 <strong>note:</strong> includes Bonin Islands (Ogasawara-gunto), Daito-shoto, Minami-jima, Okino-tori-shima, Ryukyu Islands (Nansei-shoto), and Volcano Islands (Kazan-retto)<br>

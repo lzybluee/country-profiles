@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/sw.png)
+![locator](../media/locators/sw.png)
+![map](../media/maps/sw.png)
+
 # Sweden
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, Kattegat, and Skager
 Europe<br>
 
 **Area**<br>
-_total _: 450,295 sq km<br>
+_total_: 450,295 sq km<br>
 _land_: 410,335 sq km<br>
 _water_: 39,960 sq km<br>
 

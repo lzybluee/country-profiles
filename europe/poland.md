@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/pl.png)
+![locator](../media/locators/pl.png)
+![map](../media/maps/pl.png)
+
 # Poland
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Europe, east of Germany<br>
 Europe<br>
 
 **Area**<br>
-_total _: 312,685 sq km<br>
+_total_: 312,685 sq km<br>
 _land_: 304,255 sq km<br>
 _water_: 8,430 sq km<br>
 

@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/fr.png)
+![locator](../media/locators/fr.png)
+![map](../media/maps/fr.png)
+
 # France
 
 ## Introduction
@@ -19,7 +23,7 @@ France today is one of the most modern countries in the world and is a leader am
 <strong>metropolitan France:</strong> Europe <br><br><strong>French Guiana:</strong> South America <br><br><strong>Guadeloupe:</strong> Central America and the Caribbean <br><br><strong>Martinique:</strong> Central America and the Caribbean <br><br><strong>Mayotte:</strong> Africa <br><br><strong>Reunion:</strong> World<br>
 
 **Area**<br>
-_total _: 643,801 sq km ; 551,500 sq km (metropolitan France)<br>
+_total_: 643,801 sq km ; 551,500 sq km (metropolitan France)<br>
 _land_: 640,427 sq km ; 549,970 sq km (metropolitan France)<br>
 _water_: 3,374 sq km ; 1,530 sq km (metropolitan France)<br>
 <strong>note:</strong> the first numbers include the overseas regions of French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion<br>

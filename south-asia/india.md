@@ -1,5 +1,9 @@
 _South Asia / Countries_
 
+![flag](../media/flags/in.png)
+![locator](../media/locators/in.png)
+![map](../media/maps/in.png)
+
 # India
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma an
 Asia<br>
 
 **Area**<br>
-_total _: 3,287,263 sq km<br>
+_total_: 3,287,263 sq km<br>
 _land_: 2,973,193 sq km<br>
 _water_: 314,070 sq km<br>
 

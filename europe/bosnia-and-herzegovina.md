@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/bk.png)
+![locator](../media/locators/bk.png)
+![map](../media/maps/bk.png)
+
 # Bosnia and Herzegovina
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe, bordering the Adriatic Sea and Croatia<br>
 Europe<br>
 
 **Area**<br>
-_total _: 51,197 sq km<br>
+_total_: 51,197 sq km<br>
 _land_: 51,187 sq km<br>
 _water_: 10 sq km<br>
 

@@ -1,5 +1,9 @@
 _South America / Dependencies (United Kingdom)_
 
+![flag](../media/flags/fk.png)
+![locator](../media/locators/fk.png)
+![map](../media/maps/fk.png)
+
 # Falkland Islands (Islas Malvinas)
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern South America, islands in the South Atlantic Ocean, about 500 km east o
 South America<br>
 
 **Area**<br>
-_total _: 12,173 sq km<br>
+_total_: 12,173 sq km<br>
 _land_: 12,173 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes the two main islands of East and West Falkland and about 200 small islands<br>

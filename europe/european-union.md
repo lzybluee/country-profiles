@@ -1,5 +1,9 @@
 _Europe / Other_
 
+![flag](../media/flags/ee.png)
+![locator](../media/locators/ee.png)
+![map](../media/maps/ee.png)
+
 # European Union
 
 ## Introduction
@@ -19,7 +23,7 @@ Europe between the North Atlantic Ocean in the west and Russia, Belarus, and Ukr
 Europe<br>
 
 **Area**<br>
-_total _: 4,236,351 sq km<br>
+_total_: 4,236,351 sq km<br>
 <strong>rank by area (sq km):<br></strong>1. France (includes five overseas regions) 643,801 <br>2. Spain 505,370 <br>3. Sweden 450,295 <br>4. Germany 357,022 <br>5. Finland 338,145 <br>6. Poland 312,685 <br>7. Italy 301,340<br>8. Romania 238,391 <br>9. Greece 131,957 <br>10. Bulgaria 110,879 <br>11. Hungary 93,028 <br>12. Portugal 92,090 <br>13. Austria 83,871 <br>14. Czechia 78,867 <br>15. Ireland 70,273 <br>16. Lithuania 65,300 <br>17. Latvia 64,589 <br>18. Croatia 56,594 <br>19. Slovakia 49,035 <br>20. Estonia 45,228 <br>21. Denmark 43,094 <br>22. Netherlands 41,543 <br>23. Belgium 30,528 <br>24. Slovenia 20,273 <br>25. Cyprus 9,251 <br>26. Luxembourg 2,586 <br>27. Malta 316<br>
 
 **Area - comparative**<br>

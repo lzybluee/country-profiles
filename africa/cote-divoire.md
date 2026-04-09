@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/iv.png)
+![locator](../media/locators/iv.png)
+![map](../media/maps/iv.png)
+
 # Cote d'Ivoire
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the North Atlantic Ocean, between Ghana and Liberia<br
 Africa<br>
 
 **Area**<br>
-_total _: 322,463 sq km<br>
+_total_: 322,463 sq km<br>
 _land_: 318,003 sq km<br>
 _water_: 4,460 sq km<br>
 

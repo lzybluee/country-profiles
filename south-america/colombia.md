@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/co.png)
+![locator](../media/locators/co.png)
+![map](../media/maps/co.png)
+
 # Colombia
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern South America, bordering the Caribbean Sea, between Panama and Venezuel
 South America<br>
 
 **Area**<br>
-_total _: 1,138,910 sq km<br>
+_total_: 1,138,910 sq km<br>
 _land_: 1,038,700 sq km<br>
 _water_: 100,210 sq km<br>
 <strong>note:</strong> includes Isla de Malpelo, Roncador Cay, and Serrana Bank<br>

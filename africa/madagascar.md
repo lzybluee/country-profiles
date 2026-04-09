@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ma.png)
+![locator](../media/locators/ma.png)
+![map](../media/maps/ma.png)
+
 # Madagascar
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, island in the Indian Ocean, east of Mozambique<br>
 Africa<br>
 
 **Area**<br>
-_total _: 587,041 sq km<br>
+_total_: 587,041 sq km<br>
 _land_: 581,540 sq km<br>
 _water_: 5,501 sq km<br>
 

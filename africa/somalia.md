@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/so.png)
+![locator](../media/locators/so.png)
+![map](../media/maps/so.png)
+
 # Somalia
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Africa, bordering the Gulf of Aden and the Indian Ocean, east of Ethiopi
 Africa<br>
 
 **Area**<br>
-_total _: 637,657 sq km<br>
+_total_: 637,657 sq km<br>
 _land_: 627,337 sq km<br>
 _water_: 10,320 sq km<br>
 

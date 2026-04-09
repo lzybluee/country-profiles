@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/pe.png)
+![locator](../media/locators/pe.png)
+![map](../media/maps/pe.png)
+
 # Peru
 
 ## Introduction
@@ -19,7 +23,7 @@ Western South America, bordering the South Pacific Ocean, between Chile and Ecua
 South America<br>
 
 **Area**<br>
-_total _: 1,285,216 sq km<br>
+_total_: 1,285,216 sq km<br>
 _land_: 1,279,996 sq km<br>
 _water_: 5,220 sq km<br>
 

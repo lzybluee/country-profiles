@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/wa.png)
+![locator](../media/locators/wa.png)
+![map](../media/maps/wa.png)
+
 # Namibia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, bordering the South Atlantic Ocean, between Angola and South Af
 Africa<br>
 
 **Area**<br>
-_total _: 824,292 sq km<br>
+_total_: 824,292 sq km<br>
 _land_: 823,290 sq km<br>
 _water_: 1,002 sq km<br>
 

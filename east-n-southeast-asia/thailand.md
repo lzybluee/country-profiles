@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/th.png)
+![locator](../media/locators/th.png)
+![map](../media/maps/th.png)
+
 # Thailand
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, bordering the Andaman Sea and the Gulf of Thailand, southeast
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 513,120 sq km<br>
+_total_: 513,120 sq km<br>
 _land_: 510,890 sq km<br>
 _water_: 2,230 sq km<br>
 

@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/uv.png)
+![locator](../media/locators/uv.png)
+![map](../media/maps/uv.png)
+
 # Burkina Faso
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, north of Ghana<br>
 Africa<br>
 
 **Area**<br>
-_total _: 274,200 sq km<br>
+_total_: 274,200 sq km<br>
 _land_: 273,800 sq km<br>
 _water_: 400 sq km<br>
 

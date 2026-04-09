@@ -1,5 +1,9 @@
 _Europe / Dependencies (United Kingdom)_
 
+![flag](../media/flags/je.png)
+![locator](../media/locators/je.png)
+![map](../media/maps/je.png)
+
 # Jersey
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Europe, island in the English Channel, northwest of France<br>
 Europe<br>
 
 **Area**<br>
-_total _: 116 sq km<br>
+_total_: 116 sq km<br>
 _land_: 116 sq km<br>
 _water_: 0 sq km<br>
 

@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/hr.png)
+![locator](../media/locators/hr.png)
+![map](../media/maps/hr.png)
+
 # Croatia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe, bordering the Adriatic Sea, between Bosnia and Herzegovina 
 Europe<br>
 
 **Area**<br>
-_total _: 56,594 sq km<br>
+_total_: 56,594 sq km<br>
 _land_: 55,974 sq km<br>
 _water_: 620 sq km<br>
 

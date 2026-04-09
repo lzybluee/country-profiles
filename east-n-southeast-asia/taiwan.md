@@ -1,5 +1,9 @@
 _East & Southeast Asia / Other_
 
+![flag](../media/flags/tw.png)
+![locator](../media/locators/tw.png)
+![map](../media/maps/tw.png)
+
 # Taiwan
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Asia, islands bordering the East China Sea, Philippine Sea, South China 
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 35,980 sq km<br>
+_total_: 35,980 sq km<br>
 _land_: 32,260 sq km<br>
 _water_: 3,720 sq km<br>
 <strong>note:</strong> includes the Pescadores, Matsu, and Kinmen islands<br>

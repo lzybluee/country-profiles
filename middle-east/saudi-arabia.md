@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/sa.png)
+![locator](../media/locators/sa.png)
+![map](../media/maps/sa.png)
+
 # Saudi Arabia
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, bordering the Persian Gulf and the Red Sea, north of Yemen<br>
 Middle East<br>
 
 **Area**<br>
-_total _: 2,149,690 sq km<br>
+_total_: 2,149,690 sq km<br>
 _land_: 2,149,690 sq km<br>
 _water_: 0 sq km<br>
 

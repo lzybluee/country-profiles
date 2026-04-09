@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/eg.png)
+![locator](../media/locators/eg.png)
+![map](../media/maps/eg.png)
+
 # Egypt
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Str
 Africa<br>
 
 **Area**<br>
-_total _: 1,001,450 sq km<br>
+_total_: 1,001,450 sq km<br>
 _land_: 995,450 sq km<br>
 _water_: 6,000 sq km<br>
 

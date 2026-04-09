@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/en.png)
+![locator](../media/locators/en.png)
+![map](../media/maps/en.png)
+
 # Estonia
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Europe, bordering the Baltic Sea and Gulf of Finland, between Latvia and
 Europe<br>
 
 **Area**<br>
-_total _: 45,228 sq km<br>
+_total_: 45,228 sq km<br>
 _land_: 42,388 sq km<br>
 _water_: 2,840 sq km<br>
 <strong>note:</strong> includes 1,520 islands in the Baltic Sea<br>

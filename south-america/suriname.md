@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/ns.png)
+![locator](../media/locators/ns.png)
+![map](../media/maps/ns.png)
+
 # Suriname
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern South America, bordering the North Atlantic Ocean, between French Guian
 South America<br>
 
 **Area**<br>
-_total _: 163,820 sq km<br>
+_total_: 163,820 sq km<br>
 _land_: 156,000 sq km<br>
 _water_: 7,820 sq km<br>
 

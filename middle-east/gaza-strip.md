@@ -1,5 +1,8 @@
 _Middle East / Miscellaneous_
 
+![locator](../media/locators/gz.png)
+![map](../media/maps/gz.png)
+
 # Gaza Strip
 
 ## Introduction
@@ -19,7 +22,7 @@ Middle East, bordering the Mediterranean Sea, between Egypt and Israel<br>
 Middle East<br>
 
 **Area**<br>
-_total _: 360 sq km<br>
+_total_: 360 sq km<br>
 _land_: 360 sq km<br>
 _water_: 0 sq km<br>
 

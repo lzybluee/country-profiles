@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/gg.png)
+![locator](../media/locators/gg.png)
+![map](../media/maps/gg.png)
+
 # Georgia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southwestern Asia, bordering the Black Sea, between Turkey and Russia, with a sl
 Asia<br>
 
 **Area**<br>
-_total _: 69,700 sq km<br>
+_total_: 69,700 sq km<br>
 _land_: 69,700 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> approximately 12,560 sq km, or about 18% of Georgia's area, is Russian-occupied; the seized area includes all of Abkhazia and the breakaway region of South Ossetia, which consists of the northern part of Shida Kartli, eastern slivers of the Imereti region, Racha-Lechkhumi, Kvemo Svaneti, and part of western Mtskheta-Mtianeti<br>

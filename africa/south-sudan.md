@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/od.png)
+![locator](../media/locators/od.png)
+![map](../media/maps/od.png)
+
 # South Sudan
 
 ## Introduction
@@ -19,7 +23,7 @@ East-Central Africa; south of Sudan, north of Uganda and Kenya, west of Ethiopia
 Africa<br>
 
 **Area**<br>
-_total _: 644,329 sq km<br>
+_total_: 644,329 sq km<br>
 _land_: NA<br>
 _water_: NA<br>
 

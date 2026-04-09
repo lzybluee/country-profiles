@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/dr.png)
+![locator](../media/locators/dr.png)
+![map](../media/maps/dr.png)
+
 # Dominican Republic
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, eastern two-thirds of the island of Hispaniola, between the Caribbean
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 48,670 sq km<br>
+_total_: 48,670 sq km<br>
 _land_: 48,320 sq km<br>
 _water_: 350 sq km<br>
 

@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/jo.png)
+![locator](../media/locators/jo.png)
+![map](../media/maps/jo.png)
+
 # Jordan
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, northwest of Saudi Arabia, between Israel (to the west) and Iraq<br
 Middle East<br>
 
 **Area**<br>
-_total _: 89,342 sq km<br>
+_total_: 89,342 sq km<br>
 _land_: 88,802 sq km<br>
 _water_: 540 sq km<br>
 

@@ -1,5 +1,9 @@
 _South Asia / Countries_
 
+![flag](../media/flags/bg.png)
+![locator](../media/locators/bg.png)
+![map](../media/maps/bg.png)
+
 # Bangladesh
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Asia, bordering the Bay of Bengal, between Burma and India<br>
 Asia<br>
 
 **Area**<br>
-_total _: 148,460 sq km<br>
+_total_: 148,460 sq km<br>
 _land_: 130,170 sq km<br>
 _water_: 18,290 sq km<br>
 

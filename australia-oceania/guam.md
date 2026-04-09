@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (United States)_
 
+![flag](../media/flags/gq.png)
+![locator](../media/locators/gq.png)
+![map](../media/maps/gq.png)
+
 # Guam
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, island in the North Pacific Ocean, about three-quarters of the way from
 Oceania<br>
 
 **Area**<br>
-_total _: 544 sq km<br>
+_total_: 544 sq km<br>
 _land_: 544 sq km<br>
 _water_: 0 sq km<br>
 

@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/hu.png)
+![locator](../media/locators/hu.png)
+![map](../media/maps/hu.png)
+
 # Hungary
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Europe, northwest of Romania<br>
 Europe<br>
 
 **Area**<br>
-_total _: 93,028 sq km<br>
+_total_: 93,028 sq km<br>
 _land_: 89,608 sq km<br>
 _water_: 3,420 sq km<br>
 

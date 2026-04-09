@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/it.png)
+![locator](../media/locators/it.png)
+![map](../media/maps/it.png)
+
 # Italy
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Europe, a peninsula extending into the central Mediterranean Sea, north
 Europe<br>
 
 **Area**<br>
-_total _: 301,340 sq km<br>
+_total_: 301,340 sq km<br>
 _land_: 294,140 sq km<br>
 _water_: 7,200 sq km<br>
 <strong>note:</strong> includes Sardinia and Sicily<br>

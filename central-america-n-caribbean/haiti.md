@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/ha.png)
+![locator](../media/locators/ha.png)
+![map](../media/maps/ha.png)
+
 # Haiti
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, western one-third of the island of Hispaniola, between the Caribbean 
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 27,750 sq km<br>
+_total_: 27,750 sq km<br>
 _land_: 27,560 sq km<br>
 _water_: 190 sq km<br>
 

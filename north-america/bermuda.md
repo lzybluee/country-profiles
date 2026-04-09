@@ -1,5 +1,9 @@
 _North America / Dependencies (United Kingdom)_
 
+![flag](../media/flags/bd.png)
+![locator](../media/locators/bd.png)
+![map](../media/maps/bd.png)
+
 # Bermuda
 
 ## Introduction
@@ -19,7 +23,7 @@ North America, group of islands in the North Atlantic Ocean, east of South Carol
 North America<br>
 
 **Area**<br>
-_total _: 54 sq km<br>
+_total_: 54 sq km<br>
 _land_: 54 sq km<br>
 _water_: 0 sq km<br>
 

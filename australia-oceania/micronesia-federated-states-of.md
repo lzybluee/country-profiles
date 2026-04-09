@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/fm.png)
+![locator](../media/locators/fm.png)
+![map](../media/maps/fm.png)
+
 # Micronesia, Federated States of
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, island group in the North Pacific Ocean, about three-quarters of the wa
 Oceania<br>
 
 **Area**<br>
-_total _: 702 sq km<br>
+_total_: 702 sq km<br>
 _land_: 702 sq km<br>
 _water_: 0 sq km (fresh water only)<br>
 <strong>note:</strong> includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie)<br>

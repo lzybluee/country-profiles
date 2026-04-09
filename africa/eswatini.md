@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/wz.png)
+![locator](../media/locators/wz.png)
+![map](../media/maps/wz.png)
+
 # Eswatini
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, between Mozambique and South Africa<br>
 Africa<br>
 
 **Area**<br>
-_total _: 17,364 sq km<br>
+_total_: 17,364 sq km<br>
 _land_: 17,204 sq km<br>
 _water_: 160 sq km<br>
 

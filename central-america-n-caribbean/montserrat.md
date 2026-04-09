@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (United Kingdom)_
 
+![flag](../media/flags/mh.png)
+![locator](../media/locators/mh.png)
+![map](../media/maps/mh.png)
+
 # Montserrat
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island in the Caribbean Sea, southeast of Puerto Rico<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 102 sq km<br>
+_total_: 102 sq km<br>
 _land_: 102 sq km<br>
 _water_: 0 sq km<br>
 

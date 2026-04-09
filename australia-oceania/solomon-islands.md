@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/bp.png)
+![locator](../media/locators/bp.png)
+![map](../media/maps/bp.png)
+
 # Solomon Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, group of islands in the South Pacific Ocean, east of Papua New Guinea<b
 Oceania<br>
 
 **Area**<br>
-_total _: 28,896 sq km<br>
+_total_: 28,896 sq km<br>
 _land_: 27,986 sq km<br>
 _water_: 910 sq km<br>
 

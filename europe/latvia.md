@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/lg.png)
+![locator](../media/locators/lg.png)
+![map](../media/maps/lg.png)
+
 # Latvia
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Europe, bordering the Baltic Sea, between Estonia and Lithuania<br>
 Europe<br>
 
 **Area**<br>
-_total _: 64,589 sq km<br>
+_total_: 64,589 sq km<br>
 _land_: 62,249 sq km<br>
 _water_: 2,340 sq km<br>
 

@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/gj.png)
+![locator](../media/locators/gj.png)
+![map](../media/maps/gj.png)
+
 # Grenada
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island between the Caribbean Sea and Atlantic Ocean, north of Trinida
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 344 sq km<br>
+_total_: 344 sq km<br>
 _land_: 344 sq km<br>
 _water_: 0 sq km<br>
 

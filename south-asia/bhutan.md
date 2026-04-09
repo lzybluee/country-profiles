@@ -1,5 +1,9 @@
 _South Asia / Countries_
 
+![flag](../media/flags/bt.png)
+![locator](../media/locators/bt.png)
+![map](../media/maps/bt.png)
+
 # Bhutan
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Asia, between China and India<br>
 Asia<br>
 
 **Area**<br>
-_total _: 38,394 sq km<br>
+_total_: 38,394 sq km<br>
 _land_: 38,394 sq km<br>
 _water_: 0 sq km<br>
 

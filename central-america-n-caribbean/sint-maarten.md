@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (Netherlands)_
 
+![flag](../media/flags/nn.png)
+![locator](../media/locators/nn.png)
+![map](../media/maps/nn.png)
+
 # Sint Maarten
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, located in the Leeward Islands (northern) group; Dutch part of the is
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 34 sq km<br>
+_total_: 34 sq km<br>
 _land_: 34 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> Dutch part of the island of Saint Martin<br>

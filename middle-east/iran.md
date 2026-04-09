@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/ir.png)
+![locator](../media/locators/ir.png)
+![map](../media/maps/ir.png)
+
 # Iran
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, bordering the Gulf of Oman, the Persian Gulf, and the Caspian Sea, 
 Middle East<br>
 
 **Area**<br>
-_total _: 1,648,195 sq km<br>
+_total_: 1,648,195 sq km<br>
 _land_: 1,531,595 sq km<br>
 _water_: 116,600 sq km<br>
 

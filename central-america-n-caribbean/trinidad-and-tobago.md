@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/td.png)
+![locator](../media/locators/td.png)
+![map](../media/maps/td.png)
+
 # Trinidad and Tobago
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, north
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 5,128 sq km<br>
+_total_: 5,128 sq km<br>
 _land_: 5,128 sq km<br>
 _water_: 0 sq km<br>
 

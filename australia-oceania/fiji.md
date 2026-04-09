@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/fj.png)
+![locator](../media/locators/fj.png)
+![map](../media/maps/fj.png)
+
 # Fiji
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, island group in the South Pacific Ocean, about two-thirds of the way fr
 Oceania<br>
 
 **Area**<br>
-_total _: 18,274 sq km<br>
+_total_: 18,274 sq km<br>
 _land_: 18,274 sq km<br>
 _water_: 0 sq km<br>
 

@@ -1,5 +1,9 @@
 _Australia-Oceania / Countries_
 
+![flag](../media/flags/ps.png)
+![locator](../media/locators/ps.png)
+![map](../media/maps/ps.png)
+
 # Palau
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, group of islands in the North Pacific Ocean, southeast of the Philippin
 Oceania<br>
 
 **Area**<br>
-_total _: 459 sq km<br>
+_total_: 459 sq km<br>
 _land_: 459 sq km<br>
 _water_: 0 sq km<br>
 

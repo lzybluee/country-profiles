@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/sm.png)
+![locator](../media/locators/sm.png)
+![map](../media/maps/sm.png)
+
 # San Marino
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Europe, an enclave in central Italy<br>
 Europe<br>
 
 **Area**<br>
-_total _: 61 sq km<br>
+_total_: 61 sq km<br>
 _land_: 61 sq km<br>
 _water_: 0 sq km<br>
 

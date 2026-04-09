@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/sc.png)
+![locator](../media/locators/sc.png)
+![map](../media/maps/sc.png)
+
 # Saint Kitts and Nevis
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, islands in the Caribbean Sea, about one-third of the way from Puerto 
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 261 sq km (Saint Kitts 168 sq km; Nevis 93 sq km)<br>
+_total_: 261 sq km (Saint Kitts 168 sq km; Nevis 93 sq km)<br>
 _land_: 261 sq km<br>
 _water_: 0 sq km<br>
 

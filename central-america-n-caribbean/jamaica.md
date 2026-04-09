@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/jm.png)
+![locator](../media/locators/jm.png)
+![map](../media/maps/jm.png)
+
 # Jamaica
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island in the Caribbean Sea, south of Cuba<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 10,991 sq km<br>
+_total_: 10,991 sq km<br>
 _land_: 10,831 sq km<br>
 _water_: 160 sq km<br>
 

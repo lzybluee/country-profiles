@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (United States)_
 
+![flag](../media/flags/vq.png)
+![locator](../media/locators/vq.png)
+![map](../media/maps/vq.png)
+
 # Virgin Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east 
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 1,910 sq km<br>
+_total_: 1,910 sq km<br>
 _land_: 346 sq km<br>
 _water_: 1,564 sq km<br>
 

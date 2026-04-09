@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/mu.png)
+![locator](../media/locators/mu.png)
+![map](../media/maps/mu.png)
+
 # Oman
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, bordering the Arabian Sea, Gulf of Oman, and Persian Gulf, between 
 Middle East<br>
 
 **Area**<br>
-_total _: 309,500 sq km<br>
+_total_: 309,500 sq km<br>
 _land_: 309,500 sq km<br>
 _water_: 0 sq km<br>
 

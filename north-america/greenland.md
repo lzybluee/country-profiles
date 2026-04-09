@@ -1,5 +1,9 @@
 _North America / Dependencies (Denmark)_
 
+![flag](../media/flags/gl.png)
+![locator](../media/locators/gl.png)
+![map](../media/maps/gl.png)
+
 # Greenland
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern North America, island between the Arctic Ocean and the North Atlantic O
 Arctic Region<br>
 
 **Area**<br>
-_total _: 2,166,086 sq km<br>
+_total_: 2,166,086 sq km<br>
 _land_: 2,166,086 sq km (approximately 1,710,000 sq km ice-covered)<br>
 
 **Area - comparative**<br>

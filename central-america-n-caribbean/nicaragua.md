@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/nu.png)
+![locator](../media/locators/nu.png)
+![map](../media/maps/nu.png)
+
 # Nicaragua
 
 ## Introduction
@@ -19,7 +23,7 @@ Central America, bordering both the Caribbean Sea and the North Pacific Ocean, b
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 130,370 sq km<br>
+_total_: 130,370 sq km<br>
 _land_: 119,990 sq km<br>
 _water_: 10,380 sq km<br>
 

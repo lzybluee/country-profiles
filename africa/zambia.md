@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/za.png)
+![locator](../media/locators/za.png)
+![map](../media/maps/za.png)
+
 # Zambia
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, east of Angola, south of the Democratic Republic of the Congo<b
 Africa<br>
 
 **Area**<br>
-_total _: 752,618 sq km<br>
+_total_: 752,618 sq km<br>
 _land_: 743,398 sq km<br>
 _water_: 9,220 sq km<br>
 

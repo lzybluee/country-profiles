@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/md.png)
+![locator](../media/locators/md.png)
+![map](../media/maps/md.png)
+
 # Moldova
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Europe, northeast of Romania<br>
 Europe<br>
 
 **Area**<br>
-_total _: 33,851 sq km<br>
+_total_: 33,851 sq km<br>
 _land_: 32,891 sq km<br>
 _water_: 960 sq km<br>
 

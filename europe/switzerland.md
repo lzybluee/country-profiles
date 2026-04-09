@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/sz.png)
+![locator](../media/locators/sz.png)
+![map](../media/maps/sz.png)
+
 # Switzerland
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Europe, east of France, north of Italy<br>
 Europe<br>
 
 **Area**<br>
-_total _: 41,277 sq km<br>
+_total_: 41,277 sq km<br>
 _land_: 39,997 sq km<br>
 _water_: 1,280 sq km<br>
 

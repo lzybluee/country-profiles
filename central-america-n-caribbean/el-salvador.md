@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/es.png)
+![locator](../media/locators/es.png)
+![map](../media/maps/es.png)
+
 # El Salvador
 
 ## Introduction
@@ -19,7 +23,7 @@ Central America, bordering the North Pacific Ocean, between Guatemala and Hondur
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 21,041 sq km<br>
+_total_: 21,041 sq km<br>
 _land_: 20,721 sq km<br>
 _water_: 320 sq km<br>
 

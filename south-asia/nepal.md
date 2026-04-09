@@ -1,5 +1,9 @@
 _South Asia / Countries_
 
+![flag](../media/flags/np.png)
+![locator](../media/locators/np.png)
+![map](../media/maps/np.png)
+
 # Nepal
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Asia, between China and India<br>
 Asia<br>
 
 **Area**<br>
-_total _: 147,181 sq km<br>
+_total_: 147,181 sq km<br>
 _land_: 143,351 sq km<br>
 _water_: 3,830 sq km<br>
 

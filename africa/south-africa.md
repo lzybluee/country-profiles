@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/sf.png)
+![locator](../media/locators/sf.png)
+![map](../media/maps/sf.png)
+
 # South Africa
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, at the southern tip of the continent of Africa<br>
 Africa<br>
 
 **Area**<br>
-_total _: 1,219,090 sq km<br>
+_total_: 1,219,090 sq km<br>
 _land_: 1,214,470 sq km<br>
 _water_: 4,620 sq km<br>
 <strong>note:</strong> includes Prince Edward Islands (Marion Island and Prince Edward Island)<br>

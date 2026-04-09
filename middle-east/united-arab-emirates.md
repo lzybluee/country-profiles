@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/ae.png)
+![locator](../media/locators/ae.png)
+![map](../media/maps/ae.png)
+
 # United Arab Emirates
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, bordering the Gulf of Oman and the Persian Gulf, between Oman and S
 Middle East<br>
 
 **Area**<br>
-_total _: 83,600 sq km<br>
+_total_: 83,600 sq km<br>
 _land_: 83,600 sq km<br>
 _water_: 0 sq km<br>
 

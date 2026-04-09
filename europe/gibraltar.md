@@ -1,5 +1,9 @@
 _Europe / Dependencies (United Kingdom)_
 
+![flag](../media/flags/gi.png)
+![locator](../media/locators/gi.png)
+![map](../media/maps/gi.png)
+
 # Gibraltar
 
 ## Introduction
@@ -19,7 +23,7 @@ Southwestern Europe, bordering the Strait of Gibraltar, which links the Mediterr
 Europe<br>
 
 **Area**<br>
-_total _: 7 sq km<br>
+_total_: 7 sq km<br>
 _land_: 6.5 sq km<br>
 _water_: 0 sq km<br>
 

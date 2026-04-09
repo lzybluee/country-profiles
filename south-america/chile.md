@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/ci.png)
+![locator](../media/locators/ci.png)
+![map](../media/maps/ci.png)
+
 # Chile
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern South America, bordering the South Pacific Ocean, between Argentina and
 South America<br>
 
 **Area**<br>
-_total _: 756,102 sq km<br>
+_total_: 756,102 sq km<br>
 _land_: 743,812 sq km<br>
 _water_: 12,290 sq km<br>
 <strong>note:</strong> includes Easter Island (Isla de Pascua) and Isla Sala y Gomez<br>

@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/sn.png)
+![locator](../media/locators/sn.png)
+![map](../media/maps/sn.png)
+
 # Singapore
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Asia, islands between Malaysia and Indonesia<br>
 Southeast Asia<br>
 
 **Area**<br>
-_total _: 719 sq km<br>
+_total_: 719 sq km<br>
 _land_: 709.2 sq km<br>
 _water_: 10 sq km<br>
 

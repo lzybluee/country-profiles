@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ng.png)
+![locator](../media/locators/ng.png)
+![map](../media/maps/ng.png)
+
 # Niger
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, southeast of Algeria<br>
 Africa<br>
 
 **Area**<br>
-_total _: 1.267 million sq km<br>
+_total_: 1.267 million sq km<br>
 _land_: 1,266,700 sq km<br>
 _water_: 300 sq km<br>
 

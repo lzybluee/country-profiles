@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/mr.png)
+![locator](../media/locators/mr.png)
+![map](../media/maps/mr.png)
+
 # Mauritania
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the North Atlantic Ocean, between Senegal and Western 
 Africa<br>
 
 **Area**<br>
-_total _: 1,030,700 sq km<br>
+_total_: 1,030,700 sq km<br>
 _land_: 1,030,700 sq km<br>
 _water_: 0 sq km<br>
 

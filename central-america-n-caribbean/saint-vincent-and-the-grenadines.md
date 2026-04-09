@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/vc.png)
+![locator](../media/locators/vc.png)
+![map](../media/maps/vc.png)
+
 # Saint Vincent and the Grenadines
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, islands between the Caribbean Sea and North Atlantic Ocean, north of 
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 389 sq km (Saint Vincent 344 sq km)<br>
+_total_: 389 sq km (Saint Vincent 344 sq km)<br>
 _land_: 389 sq km<br>
 _water_: 0 sq km<br>
 

@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/bb.png)
+![locator](../media/locators/bb.png)
+![map](../media/maps/bb.png)
+
 # Barbados
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island in the North Atlantic Ocean, northeast of Venezuela<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 430 sq km<br>
+_total_: 430 sq km<br>
 _land_: 430 sq km<br>
 _water_: 0 sq km<br>
 

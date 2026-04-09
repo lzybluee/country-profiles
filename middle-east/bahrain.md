@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/ba.png)
+![locator](../media/locators/ba.png)
+![map](../media/maps/ba.png)
+
 # Bahrain
 
 ## Introduction
@@ -19,7 +23,7 @@ Middle East, archipelago in the Persian Gulf, east of Saudi Arabia<br>
 Middle East<br>
 
 **Area**<br>
-_total _: 760 sq km<br>
+_total_: 760 sq km<br>
 _land_: 760 sq km<br>
 _water_: 0 sq km<br>
 

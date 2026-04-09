@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/et.png)
+![locator](../media/locators/et.png)
+![map](../media/maps/et.png)
+
 # Ethiopia
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Africa, west of Somalia<br>
 Africa<br>
 
 **Area**<br>
-_total _: 1,104,300 sq km<br>
+_total_: 1,104,300 sq km<br>
 _land_: 1,096,570 sq km<br>
 _water_: 7,730 sq km<br>
 <strong>note:</strong> area numbers are approximate since a large portion of the Ethiopia-Somalia border is undefined<br>

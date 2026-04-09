@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ts.png)
+![locator](../media/locators/ts.png)
+![map](../media/maps/ts.png)
+
 # Tunisia
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern Africa, bordering the Mediterranean Sea, between Algeria and Libya<br>
 Africa<br>
 
 **Area**<br>
-_total _: 163,610 sq km<br>
+_total_: 163,610 sq km<br>
 _land_: 155,360 sq km<br>
 _water_: 8,250 sq km<br>
 

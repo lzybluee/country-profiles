@@ -1,5 +1,9 @@
 _Australia-Oceania / Dependencies (France)_
 
+![flag](../media/flags/fp.png)
+![locator](../media/locators/fp.png)
+![map](../media/maps/fp.png)
+
 # French Polynesia
 
 ## Introduction
@@ -19,7 +23,7 @@ Oceania, five archipelagoes (Archipel des Tuamotu, Iles Gambier, Iles Marquises,
 Oceania<br>
 
 **Area**<br>
-_total _: 4,167 sq km (118 islands and atolls; 67 are inhabited)<br>
+_total_: 4,167 sq km (118 islands and atolls; 67 are inhabited)<br>
 _land_: 3,827 sq km<br>
 _water_: 340 sq km<br>
 

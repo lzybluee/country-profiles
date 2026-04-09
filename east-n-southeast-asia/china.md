@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/ch.png)
+![locator](../media/locators/ch.png)
+![map](../media/maps/ch.png)
+
 # China
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Asia, bordering the East China Sea, Korea Bay, Yellow Sea, and South Chi
 Asia<br>
 
 **Area**<br>
-_total _: 9,596,960 sq km<br>
+_total_: 9,596,960 sq km<br>
 _land_: 9,326,410 sq km<br>
 _water_: 270,550 sq km<br>
 

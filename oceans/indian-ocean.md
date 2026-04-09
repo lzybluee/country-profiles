@@ -1,5 +1,7 @@
 _Oceans / Oceans_
 
+![map](../media/maps/xo.png)
+
 # Indian Ocean
 
 ## Introduction
@@ -16,7 +18,7 @@ body of water between Africa, the Southern Ocean, Asia, and Australia<br>
 20 00 S, 80 00 E<br>
 
 **Area**<br>
-_total _: 70.56 million sq km<br>
+_total_: 70.56 million sq km<br>
 <strong>note:</strong> includes Andaman Sea, Arabian Sea, Bay of Bengal, Great Australian Bight, Gulf of Aden, Gulf of Oman, Mozambique Channel, Persian Gulf, Red Sea, Savu Sea, Strait of Malacca, Timor Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>

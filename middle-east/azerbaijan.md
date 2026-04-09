@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/aj.png)
+![locator](../media/locators/aj.png)
+![map](../media/maps/aj.png)
+
 # Azerbaijan
 
 ## Introduction
@@ -19,7 +23,7 @@ Southwestern Asia, bordering the Caspian Sea, between Iran and Russia, with a sm
 Asia<br>
 
 **Area**<br>
-_total _: 86,600 sq km<br>
+_total_: 86,600 sq km<br>
 _land_: 82,629 sq km<br>
 _water_: 3,971 sq km<br>
 <strong>note:</strong> includes the exclave of Naxcivan Autonomous Republic and the Nagorno-Karabakh region; the final status of the region has yet to be determined<br>

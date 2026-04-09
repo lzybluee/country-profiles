@@ -1,5 +1,9 @@
 _South Asia / Countries_
 
+![flag](../media/flags/ce.png)
+![locator](../media/locators/ce.png)
+![map](../media/maps/ce.png)
+
 # Sri Lanka
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Asia, island in the Indian Ocean, south of India<br>
 Asia<br>
 
 **Area**<br>
-_total _: 65,610 sq km<br>
+_total_: 65,610 sq km<br>
 _land_: 64,630 sq km<br>
 _water_: 980 sq km<br>
 

@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ni.png)
+![locator](../media/locators/ni.png)
+![map](../media/maps/ni.png)
+
 # Nigeria
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the Gulf of Guinea, between Benin and Cameroon<br>
 Africa<br>
 
 **Area**<br>
-_total _: 923,768 sq km<br>
+_total_: 923,768 sq km<br>
 _land_: 910,768 sq km<br>
 _water_: 13,000 sq km<br>
 

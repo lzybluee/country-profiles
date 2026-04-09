@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/mp.png)
+![locator](../media/locators/mp.png)
+![map](../media/maps/mp.png)
+
 # Mauritius
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, island in the Indian Ocean, about 800 km (500 mi) east of Madag
 Africa<br>
 
 **Area**<br>
-_total _: 2,040 sq km<br>
+_total_: 2,040 sq km<br>
 _land_: 2,030 sq km<br>
 _water_: 10 sq km<br>
 <strong>note:</strong> includes Agalega Islands, Cargados Carajos Shoals (Saint Brandon), and Rodrigues<br>

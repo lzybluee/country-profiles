@@ -1,5 +1,7 @@
 _Oceans / Oceans_
 
+![map](../media/maps/zh.png)
+
 # Atlantic Ocean
 
 ## Introduction
@@ -19,7 +21,7 @@ body of water between Africa, Europe, the Arctic Ocean, the Americas, and the So
 Map of the world oceans<br>
 
 **Area**<br>
-_total _: 85.133 million sq km<br>
+_total_: 85.133 million sq km<br>
 <strong>note:</strong> includes Baffin Bay, Baltic Sea, Black Sea, Caribbean Sea, Davis Strait, Denmark Strait, part of the Drake Passage, Hudson Bay, Hudson Strait, Gulf of America, Labrador Sea, Mediterranean Sea, North Sea, almost all of the Scotia Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>

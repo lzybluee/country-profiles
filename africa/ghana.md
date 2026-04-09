@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/gh.png)
+![locator](../media/locators/gh.png)
+![map](../media/maps/gh.png)
+
 # Ghana
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Africa, bordering the Gulf of Guinea, between Cote d'Ivoire and Togo<br>
 Africa<br>
 
 **Area**<br>
-_total _: 238,533 sq km<br>
+_total_: 238,533 sq km<br>
 _land_: 227,533 sq km<br>
 _water_: 11,000 sq km<br>
 

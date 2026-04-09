@@ -1,5 +1,9 @@
 _Central Asia / Countries_
 
+![flag](../media/flags/kz.png)
+![locator](../media/locators/kz.png)
+![map](../media/maps/kz.png)
+
 # Kazakhstan
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Asia, northwest of China; a small portion west of the Ural (Oral) River 
 Asia<br>
 
 **Area**<br>
-_total _: 2,724,900 sq km<br>
+_total_: 2,724,900 sq km<br>
 _land_: 2,699,700 sq km<br>
 _water_: 25,200 sq km<br>
 

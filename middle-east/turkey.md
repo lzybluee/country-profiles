@@ -1,5 +1,9 @@
 _Middle East / Countries_
 
+![flag](../media/flags/tu.png)
+![locator](../media/locators/tu.png)
+![map](../media/maps/tu.png)
+
 # Turkey
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe and Southwestern Asia (that portion of Turkey west of the Bo
 Middle East<br>
 
 **Area**<br>
-_total _: 783,562 sq km<br>
+_total_: 783,562 sq km<br>
 _land_: 769,632 sq km<br>
 _water_: 13,930 sq km<br>
 

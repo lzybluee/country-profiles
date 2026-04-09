@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/mn.png)
+![locator](../media/locators/mn.png)
+![map](../media/maps/mn.png)
+
 # Monaco
 
 ## Introduction
@@ -19,7 +23,7 @@ Western Europe, bordering the Mediterranean Sea on the southern coast of France,
 Europe<br>
 
 **Area**<br>
-_total _: 2 sq km<br>
+_total_: 2 sq km<br>
 _land_: 2 sq km<br>
 _water_: 0 sq km<br>
 

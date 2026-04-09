@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/ke.png)
+![locator](../media/locators/ke.png)
+![map](../media/maps/ke.png)
+
 # Kenya
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Africa, bordering the Indian Ocean, between Somalia and Tanzania<br>
 Africa<br>
 
 **Area**<br>
-_total _: 580,367 sq km<br>
+_total_: 580,367 sq km<br>
 _land_: 569,140 sq km<br>
 _water_: 11,227 sq km<br>
 

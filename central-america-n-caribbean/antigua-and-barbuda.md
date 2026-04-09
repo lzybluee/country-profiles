@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/ac.png)
+![locator](../media/locators/ac.png)
+![map](../media/maps/ac.png)
+
 # Antigua and Barbuda
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east-
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 443 sq km (Antigua 280 sq km; Barbuda 161 sq km)<br>
+_total_: 443 sq km (Antigua 280 sq km; Barbuda 161 sq km)<br>
 _land_: 443 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Redonda, 1.6 sq km<br>

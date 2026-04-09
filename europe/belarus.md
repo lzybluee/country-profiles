@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/bo.png)
+![locator](../media/locators/bo.png)
+![map](../media/maps/bo.png)
+
 # Belarus
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Europe, east of Poland<br>
 Europe<br>
 
 **Area**<br>
-_total _: 207,600 sq km<br>
+_total_: 207,600 sq km<br>
 _land_: 202,900 sq km<br>
 _water_: 4,700 sq km<br>
 

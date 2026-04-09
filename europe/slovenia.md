@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/si.png)
+![locator](../media/locators/si.png)
+![map](../media/maps/si.png)
+
 # Slovenia
 
 ## Introduction
@@ -19,7 +23,7 @@ south Central Europe, Julian Alps between Austria and Croatia<br>
 Europe<br>
 
 **Area**<br>
-_total _: 20,273 sq km<br>
+_total_: 20,273 sq km<br>
 _land_: 20,151 sq km<br>
 _water_: 122 sq km<br>
 

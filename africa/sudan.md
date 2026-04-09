@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/su.png)
+![locator](../media/locators/su.png)
+![map](../media/maps/su.png)
+
 # Sudan
 
 ## Introduction
@@ -19,7 +23,7 @@ north-eastern Africa, bordering the Red Sea, between Egypt and Eritrea<br>
 Africa<br>
 
 **Area**<br>
-_total _: 1,861,484 sq km<br>
+_total_: 1,861,484 sq km<br>
 _land_: 1,731,671 sq km<br>
 _water_: 129,813 sq km<br>
 

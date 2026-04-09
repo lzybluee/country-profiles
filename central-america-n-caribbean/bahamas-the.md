@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/bf.png)
+![locator](../media/locators/bf.png)
+![map](../media/maps/bf.png)
+
 # Bahamas, The
 
 ## Introduction
@@ -19,7 +23,7 @@ chain of islands in the North Atlantic Ocean, southeast of Florida, northeast of
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 13,880 sq km<br>
+_total_: 13,880 sq km<br>
 _land_: 10,010 sq km<br>
 _water_: 3,870 sq km<br>
 

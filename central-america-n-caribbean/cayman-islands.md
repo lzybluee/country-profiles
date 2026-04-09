@@ -1,5 +1,9 @@
 _Central America and Caribbean / Dependencies (United Kingdom)_
 
+![flag](../media/flags/cj.png)
+![locator](../media/locators/cj.png)
+![map](../media/maps/cj.png)
+
 # Cayman Islands
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, three-island group (Grand Cayman, Cayman Brac, Little Cayman) in Cari
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 264 sq km<br>
+_total_: 264 sq km<br>
 _land_: 264 sq km<br>
 _water_: 0 sq km<br>
 

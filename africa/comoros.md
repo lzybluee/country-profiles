@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/cn.png)
+![locator](../media/locators/cn.png)
+![map](../media/maps/cn.png)
+
 # Comoros
 
 ## Introduction
@@ -19,7 +23,7 @@ Southern Africa, group of islands at the northern mouth of the Mozambique Channe
 Africa<br>
 
 **Area**<br>
-_total _: 2,235 sq km<br>
+_total_: 2,235 sq km<br>
 _land_: 2,235 sq km<br>
 _water_: 0 sq km<br>
 

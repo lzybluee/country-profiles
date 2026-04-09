@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/do.png)
+![locator](../media/locators/do.png)
+![map](../media/maps/do.png)
+
 # Dominica
 
 ## Introduction
@@ -19,7 +23,7 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, about 
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 751 sq km<br>
+_total_: 751 sq km<br>
 _land_: 751 sq km<br>
 _water_: NEGL<br>
 

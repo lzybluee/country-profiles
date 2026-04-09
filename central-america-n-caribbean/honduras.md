@@ -1,5 +1,9 @@
 _Central America and Caribbean / Countries_
 
+![flag](../media/flags/ho.png)
+![locator](../media/locators/ho.png)
+![map](../media/maps/ho.png)
+
 # Honduras
 
 ## Introduction
@@ -19,7 +23,7 @@ Central America, bordering the Caribbean Sea, between Guatemala and Nicaragua an
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total _: 112,090 sq km<br>
+_total_: 112,090 sq km<br>
 _land_: 111,890 sq km<br>
 _water_: 200 sq km<br>
 

@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/cm.png)
+![locator](../media/locators/cm.png)
+![map](../media/maps/cm.png)
+
 # Cameroon
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, bordering the Bight of Biafra, between Equatorial Guinea and Nig
 Africa<br>
 
 **Area**<br>
-_total _: 475,440 sq km<br>
+_total_: 475,440 sq km<br>
 _land_: 472,710 sq km<br>
 _water_: 2,730 sq km<br>
 

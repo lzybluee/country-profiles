@@ -1,5 +1,9 @@
 _South America / Countries_
 
+![flag](../media/flags/gy.png)
+![locator](../media/locators/gy.png)
+![map](../media/maps/gy.png)
+
 # Guyana
 
 ## Introduction
@@ -19,7 +23,7 @@ Northern South America, bordering the North Atlantic Ocean, between Suriname and
 South America<br>
 
 **Area**<br>
-_total _: 214,969 sq km<br>
+_total_: 214,969 sq km<br>
 _land_: 196,849 sq km<br>
 _water_: 18,120 sq km<br>
 

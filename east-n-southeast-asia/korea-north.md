@@ -1,5 +1,9 @@
 _East & Southeast Asia / Countries_
 
+![flag](../media/flags/kn.png)
+![locator](../media/locators/kn.png)
+![map](../media/maps/kn.png)
+
 # Korea, North
 
 ## Introduction
@@ -19,7 +23,7 @@ Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and 
 Asia<br>
 
 **Area**<br>
-_total _: 120,538 sq km<br>
+_total_: 120,538 sq km<br>
 _land_: 120,408 sq km<br>
 _water_: 130 sq km<br>
 

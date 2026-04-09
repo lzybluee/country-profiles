@@ -1,5 +1,9 @@
 _Africa / Countries_
 
+![flag](../media/flags/cf.png)
+![locator](../media/locators/cf.png)
+![map](../media/maps/cf.png)
+
 # Congo, Republic of the
 
 ## Introduction
@@ -19,7 +23,7 @@ Central Africa, bordering the South Atlantic Ocean, between Angola and Gabon<br>
 Africa<br>
 
 **Area**<br>
-_total _: 342,000 sq km<br>
+_total_: 342,000 sq km<br>
 _land_: 341,500 sq km<br>
 _water_: 500 sq km<br>
 

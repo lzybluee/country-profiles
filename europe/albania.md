@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/al.png)
+![locator](../media/locators/al.png)
+![map](../media/maps/al.png)
+
 # Albania
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe, bordering the Adriatic Sea and Ionian Sea, between Greece t
 Europe<br>
 
 **Area**<br>
-_total _: 28,748 sq km<br>
+_total_: 28,748 sq km<br>
 _land_: 27,398 sq km<br>
 _water_: 1,350 sq km<br>
 

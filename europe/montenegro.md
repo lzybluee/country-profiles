@@ -1,5 +1,9 @@
 _Europe / Countries_
 
+![flag](../media/flags/mj.png)
+![locator](../media/locators/mj.png)
+![map](../media/maps/mj.png)
+
 # Montenegro
 
 ## Introduction
@@ -19,7 +23,7 @@ Southeastern Europe, between the Adriatic Sea and Serbia<br>
 Europe<br>
 
 **Area**<br>
-_total _: 13,812 sq km<br>
+_total_: 13,812 sq km<br>
 _land_: 13,452 sq km<br>
 _water_: 360 sq km<br>
 
